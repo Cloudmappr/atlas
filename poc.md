@@ -95,6 +95,7 @@ All simulations have excel-generated guids, which are reliable for test purposes
 Mock data for these and a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
 
 ##### Excel copy-pastable
+
 <iframe
   src="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK"
   style="width:100%; height:500px;"
@@ -109,18 +110,32 @@ Mock data for these and a variety of structures are provided in the atlas [templ
 ####  **markmap2wbs**:   Converts hash-annotated markmap into a numerically accurate structure with guids.
 
 ### In Context
+
 #### [Structure Display, Attributes, Summary nav](image-4.png)
+
 ![nav](image-4.png)
+
 #### [Resource Attributes, Summary](image-6.png)
+
 ![nav](image-6.png) 
+
 #### [Structure Inventory](image-5.png)
+
 ![nav](image-5.png) 
+
 #### [Learning Path use case](image-7.png) 
+
 ![nav](image-7.png)
+
 #### [Structure-level attributes](image-8.png)
+
 ![alt text](image-8.png)
+
 #### [Export](image-9.png)
+
 ![alt text](image-11.png)
 ![alt text](image-12.png)
+
 #### [Cross-structure reporting](image-10.png)
+
 ![alt text](image-10.png)
