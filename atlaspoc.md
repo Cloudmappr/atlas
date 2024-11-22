@@ -30,8 +30,11 @@ All simulations have excel-generated guids.
   - [Mindmap](https://cloudmappr.github.io/atlas/learningPath)
   
 ### In Context
-#### Structure Navigation and Object Editing
+#### Structure Display, Attributes, Summary
 ![nav](image-4.png)
+
+#### Resource Attributes, Summary
+![resource attributes](image-6.png)
 
 #### Structure Inventory
 ![inventory](image-5.png)
