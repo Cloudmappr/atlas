@@ -113,29 +113,29 @@ Mock data for these and a variety of structures are provided in the atlas [templ
 
 #### [Structure Display, Attributes, Summary nav](image-4.png)
 
-![nav](./image-4.png)
+![nav](image-4.png)
 
 #### [Resource Attributes, Summary](image-6.png)
 
-![nav](./image-6.png) 
+![nav](image-6.png) 
 
 #### [Structure Inventory](image-5.png)
 
-![nav](./image-5.png) 
+![nav](image-5.png) 
 
 #### [Learning Path use case](image-7.png) 
 
-![nav](./image-7.png)
+![nav](image-7.png)
 
 #### [Structure-level attributes](image-8.png)
 
-![alt text](./image-8.png)
+![alt text](image-8.png)
 
 #### [Export](image-9.png)
 
-![alt text](./image-11.png)
-![alt text](./image-12.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
 
 #### [Cross-structure reporting](image-10.png)
 
-![alt text](./image-10.png)
+![alt text](image-10.png)
