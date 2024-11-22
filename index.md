@@ -10,7 +10,7 @@ This document is intended solely for personal use and may not be shared, reprodu
 ## Overview
 Atlas is a concept for a scalable multi-user platform for structured planning and reporting featuring frictionless onboarding and granular access control for teams of any size and composition.  
 
-Using a streamlined interface to organize elements and resources, planning teams can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  Analysts can construct reports across structures for comparative and historical analysis.  Instructors can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. Student can leverage it for structured notetaking aligning to a syllabus or learning plan.  Buy-side planners can leverage Atlas to collect assets from vendors, suppliers and distributors.  UI developers can leverage the platform to transform the user experience for existing content management or records user interfaces.
+Using a streamlined interface to organize elements and resources, planning teams can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  Analysts can construct reports across structures for comparative and historical analysis.  Instructors can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. Students can leverage it for structured notetaking aligning to a syllabus or learning plan.  Buy-side planners can leverage Atlas to collect assets from vendors, suppliers and distributors.  UI developers can leverage the platform to transform the user experience for existing content management or records user interfaces while using its flexible backend to integrate and enrich data from multiple sources.
 
 
 ## Proof of concept
@@ -58,11 +58,11 @@ All simulations have excel-generated guids, but are not RFC9562 compliant.
 ## Data Sets
 Mock data for a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
 
-### wbs2markmap
-Allows users to create their own numerically accurate structures with guids.
+- **uatDataSet**
+  - User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record.
 
-### markmap2wbs
-Can convert hash-annotated markmap into a numerically accurate structure with guids.
+- **wbs2markmap**
+  - Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
 
-### uatDataSet
-User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record.
+- **markmap2wbs**
+  - Converts hash-annotated markmap into a numerically accurate structure with guids.
