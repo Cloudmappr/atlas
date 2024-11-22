@@ -19,11 +19,20 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
+## Demos<!-- markmap: foldAll -->
+### This document rendered in markmap
 <iframe
   src="https://cloudmappr.github.io/atlas/atlasintro.html"
   style="width:100%; height:400px;"
 ></iframe>
 
+### Work Breakdown with mock backend
+<iframe
+  src="https://cloudmappr.github.io/atlas/bicycleDemo_WBS.html"
+  style="width:100%; height:400px;"
+></iframe>
+
+## Use Cases
 ### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
 ### **Analysts** can construct reports across structures for comparative and historical analysis.  
 ### **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
