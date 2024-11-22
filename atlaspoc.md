@@ -4,8 +4,8 @@
 Typescript mindmap renderer available under MIT license, leveraging YAML-like markup for structure
 
 ### Example markup
-![Frontmatter](image-1.png)
-![Backmatter](image-1.png)
+![frontmatter](image-3.png)
+![backmatter](image-2.png)
 
 ### Output
 All simulations have guids; only Bicycle Simulator has sample backend data
@@ -24,3 +24,5 @@ All simulations have guids; only Bicycle Simulator has sample backend data
 - Learning Path: 
   - Mindmap
   
+### In Context
+![rough mockup](image-4.png)
