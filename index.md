@@ -54,11 +54,18 @@ All simulations have excel-generated guids, which are reliable for test purposes
 
 #### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
 
+<iframe
+  src="./AtlasRecordTemplate"
+  style="width:100%; height:400px;"
+></iframe>
+
+#### **Example Atlas Record**: Minimal system attributes, nearly completely flexible schema
 
 <iframe
   src="./md/spacedemo.html"
   style="width:100%; height:400px;"
 ></iframe>
+
 
 #### **Space System**:  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
 
