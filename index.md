@@ -1,4 +1,4 @@
 <iframe
   src="./poc.html"
-  style="width:90%; height:100%;"
+  style="width:90%; height:750px;"
 ></iframe>

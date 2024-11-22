@@ -56,8 +56,8 @@ All simulations have excel-generated guids, which are reliable for test purposes
 
 
 <iframe
-  src="https://cloudmappr.github.io/atlas/spacedemo.html"
-  style="width:00%"
+  src="./spacedemo.html"
+  style="width:100%; height:400px;"
 ></iframe>
 
 #### **Space System**:  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
@@ -97,7 +97,7 @@ Mock data for these and a variety of structures are provided in the atlas [templ
 ##### Excel copy-pastable
 <iframe
   src="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK"
-  style="width:00%"
+  style="width:100%; height:500px;"
 ></iframe>
 
 
