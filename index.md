@@ -32,7 +32,7 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 ### Buy-side **planners** can leverage Atlas to collect assets from endors, suppliers and distributors.  
 ### **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
 ### **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
-### **GenAI Consumers** can ingest Generative AI output into structures for further research and annotation
+### **Generative AI Consumers** can use Atlas to structure GenAI output for human curation, research, and annotation
 
 
 ## Proof of concept<!-- markmap: foldAll -->
