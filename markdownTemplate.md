@@ -1,10 +1,9 @@
 
 [⬅️](./bicycleDemo_WBS.html)
-[🖋️](./https://cloudmappr.github.io/atlas/054c5638-61a8-7530-789c-aeb3b73e746d.md)
+[🖋️](./054c5638-61a8-7530-789c-aeb3b73e746d.md)
 
-{%%ISO-DATETIME%%}
 
-# SystemAtttributes
+# SystemAttributes
 
 | Key                       | Value                                       |
 | ------------------------: | ------------------------------------------- |
@@ -12,6 +11,7 @@
 | parentGUID                | ```054c5638-61a8-7530-a7b9-ecc0171e8670```  |
 | created                   |   45621.70857                               |
 | updated                   |   45623.59488                               |
+| recordType                |   Element                                   |
 | createdBy                 | ```054c5639-1a55-7531-232a-17d9c2348cd0```  |
 | updatedBy                 | ```054c5639-c3c9-7531-5ff7-d8ffc2ac7e07```  |
 | owner                     | ```054c5639-1a55-7531-232a-17d9c2348cd0```  |
@@ -23,14 +23,14 @@
 | viewer                    | ```054c5639-a35e-7531-6cb6-29dc42843542```  |
 | viewer                    | ```054c5639-6934-7531-3632-b81c5fca7258```  |
 
-# Attributes
+
+# RecordAttributes
 
 | Key                       | Value                                       |
 | ------------------------: | ------------------------------------------- |
 | name                      | Component Test RFP                          |
-| type                      | Element                                     |
 
-# Description
+## Description
 
 The component test during bicycle development evaluates the individual parts of the bicycle to ensure they meet **performance**, **durability**, and **safety standards** before being integrated into the final product. This process ensures each component functions reliably under anticipated conditions, reducing the risk of failures and optimizing overall [product quality](https://www.nist.gov/nist-quality-system).
 
@@ -55,12 +55,12 @@ The component test during bicycle development evaluates the individual parts of 
 - Material Testing: Experiment with new materials or designs for components to enhance performance or reduce weight.
 - Feature Testing: Evaluate additional features like quick-release mechanisms, hydraulic brakes, or smart sensors for functionality and user convenience.
 
-## Key Deliverables
+### Key Deliverables
 - Comprehensive test reports with performance metrics and failure analysis.
 - Recommendations for design improvements or material changes.
 - Certification of components as ready for integration into the final product.
 
-## Value of Component Testing
+### Value of Component Testing
 Component testing ensures each part of the bicycle is reliable, safe, and optimized for performance before assembly. By addressing issues at the component level, it minimizes the risk of costly failures later in the development process and contributes to a high-quality, durable product that meets customer expectations.
 
 # Links
