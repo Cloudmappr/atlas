@@ -79,19 +79,24 @@ All simulations have excel-generated guids, which are reliable for test purposes
 
 #### **Curriculum**:  Syllabus for a freshman-level ancient history course
 
-#### **Learning Path**: Example learning path
+
 <iframe
   src="https://cloudmappr.github.io/atlas/learningPath"
   style="width:100%; height:400px;"
 ></iframe>
+
+#### **Learning Path**: Example learning path
+
+
+### Mock Data Set
+Mock data for these and a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
 
 <iframe
   src="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK"
   style="width:100%; height:400px;"
 ></iframe>
 
-### [Mock Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
-Mock data for these and a variety of structures are provided in the atlas 
+
 
 ####  **uatDataSet**:  User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record, populating the results into an appropriate persistent data store to generate backmatter and allow the user to enrich the data.
 
