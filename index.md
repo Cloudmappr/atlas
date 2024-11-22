@@ -91,9 +91,10 @@ All simulations have excel-generated guids, which are reliable for test purposes
 ### Mock Data Set
 Mock data for these and a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
 
+##### Excel copy-pastable
 <iframe
   src="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK"
-  style="width:100%; height:400px;"
+  style="width:100%; height:800px;"
 ></iframe>
 
 
