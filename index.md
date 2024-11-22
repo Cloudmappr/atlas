@@ -27,12 +27,13 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 
 ### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
 ### **Analysts** can construct reports across structures for comparative and historical analysis.  
+### **Generative AI Consumers** can use Atlas to structure GenAI output for human curation, research, and annotation
 ### **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
 ### **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
 ### Buy-side **planners** can leverage Atlas to collect assets from endors, suppliers and distributors.  
 ### **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
 ### **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
-### **Generative AI Consumers** can use Atlas to structure GenAI output for human curation, research, and annotation
+
 
 
 ## Proof of concept<!-- markmap: foldAll -->
