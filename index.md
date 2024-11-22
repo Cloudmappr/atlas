@@ -54,7 +54,7 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
 #### Example backmatter
 ![backmatter](image-2.png)
 
-### Output
+### Simulations
 All simulations have excel-generated guids, which are reliable for test purposes but not RFC9562 compliant.
 
 #### **Bicycle Project Test**: Semi-functional demo for project quoting.  Has sample backend data and simulated iconography
@@ -100,3 +100,9 @@ Mock data for these and a variety of structures are provided in the atlas
 ![nav](image-5.png) 
 #### [Learning Path use case](image-7.png) 
 ![nav](image-7.png)
+#### Structure-level attributes
+![alt text](image-8.png)
+#### Export
+![alt text](image-9.png)
+#### Cross-structure reporting
+![alt text](image-10.png)
