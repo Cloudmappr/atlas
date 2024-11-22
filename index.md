@@ -1,7 +1,7 @@
 ---
 markmap: 
   colorFreezeLevel: 2
-  maxWidth: 300
+  maxWidth: 600
   initialExpandLevel: 4
   embedAssets: true
 ---
@@ -21,18 +21,16 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 
 <iframe
   src="https://cloudmappr.github.io/atlas/atlasintro.html"
-  style="width:80%; height:300px;"
+  style="width:50%; height:300px;"
 ></iframe>
 
-### Use cases
-
-#### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
-#### **Analysts** can construct reports across structures for comparative and historical analysis.  
-#### **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
-#### **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
-#### Buy-side **planners** can leverage Atlas to collect assets from vendors, suppliers and distributors.  
-#### **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
-#### **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
+### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
+### **Analysts** can construct reports across structures for comparative and historical analysis.  
+### **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
+### **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
+### Buy-side **planners** can leverage Atlas to collect assets from vendors, suppliers and distributors.  
+### **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
+### **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
 
 
 ## Proof of concept<!-- markmap: foldAll -->
@@ -72,7 +70,7 @@ All simulations have excel-generated guids, which are reliable for test purposes
 
 ##### [Mindmap](https://cloudmappr.github.io/atlas/ancientHistory_Curr)
 
-#### Learning Path: 
+#### **Learning Path**: Example learning path
 ##### [Mindmap](https://cloudmappr.github.io/atlas/learningPath)
 
 #### [Mock Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
