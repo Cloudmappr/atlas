@@ -15,7 +15,7 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
 <iframe
-  src="./demo/atlasintro.html"
+  src="./md/atlasintro.html"
   style="width:100%; height:400px;"
 ></iframe>
 
@@ -48,7 +48,7 @@ All simulations have excel-generated guids, which are reliable for test purposes
 
 
 <iframe
-  src="./demo/bicycleDemo_WBS.html"
+  src="./md/bicycleDemo_WBS.html"
   style="width:100%; height:400px;"
 ></iframe>
 
@@ -56,35 +56,35 @@ All simulations have excel-generated guids, which are reliable for test purposes
 
 
 <iframe
-  src="./demo/spacedemo.html"
+  src="./md/spacedemo.html"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Space System**:  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
 
 <iframe
-  src="./demo/webDesign_WBS"
+  src="./md/webDesign_WBS"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Web Design**:  Typical web design work breakdown structure
 
 <iframe
-  src="./demo/ancientHistory_Curr"
+  src="./md/ancientHistory_Curr"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Curriculum**:  Syllabus for a freshman-level ancient history course
 
 <iframe
-  src="./demo/humanlanguages"
+  src="./md/humanlanguages"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Languages**: Human Language Taxonomy
 
 <iframe
-  src="./demo/learningpath.html"
+  src="./md/learningpath.html"
   style="width:100%; height:400px;"
 ></iframe>
 
