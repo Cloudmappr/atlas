@@ -21,7 +21,7 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 
 <iframe
   src="https://cloudmappr.github.io/atlas/atlasintro.html"
-  style="width:50%; height:300px;"
+  style="width:100%; height:400px;"
 ></iframe>
 
 ### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
