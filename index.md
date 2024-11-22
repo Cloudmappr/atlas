@@ -21,7 +21,7 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 
 <iframe
   src="https://cloudmappr.github.io/atlas/atlasintro.html"
-  style="width:50%; height:300px;"
+  style="width:80%; height:300px;"
 ></iframe>
 
 ### Use cases
