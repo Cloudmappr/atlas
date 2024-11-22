@@ -84,7 +84,7 @@ All simulations have excel-generated guids, which are reliable for test purposes
 #### **Languages**: Human Language Taxonomy
 
 <iframe
-  src="./md/learningpath.html"
+  src="./md/learningPath.html"
   style="width:100%; height:400px;"
 ></iframe>
 
