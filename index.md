@@ -18,7 +18,7 @@ Using a streamlined interface to organize elements and resources, planning teams
 
 The backend is logically separated from the renderer, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) to address canvas-style and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects, even if the views leverage different renderers.
 
-### Example markup
+### Markmap
 #### Example Frontmatter
 ![frontmatter](image-3.png)
 
@@ -26,7 +26,7 @@ The backend is logically separated from the renderer, so markmap can and will co
 ![backmatter](image-2.png)
 
 ### Output
-All simulations have excel-generated guids.
+All simulations have excel-generated guids, but are not RFC9562 compliant.
 
 - Bicycle Project Test: Semi-functional demo for project quoting.  Has sample backend data and simulated iconography
   - [WBS](https://cloudmappr.github.io/atlas/bicycleDemo_WBS)
@@ -54,3 +54,15 @@ All simulations have excel-generated guids.
 
 #### Learning Path use case
 ![alt text](image-7.png)
+
+## Data Sets
+Mock data for a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
+
+### wbs2markmap
+Allows users to create their own numerically accurate structures with guids.
+
+### markmap2wbs
+Can convert hash-annotated markmap into a numerically accurate structure with guids.
+
+### uatDataSet
+User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record.
