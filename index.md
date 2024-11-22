@@ -37,7 +37,7 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 ## Proof of concept<!-- markmap: foldAll -->
 The PoC is built on, but not dependent on, [Markmap](https://github.com/markmap/markmap) (MIT License), a typescript mindmap renderer leveraging YAML-like markup for structure, resulting in simple. human-readable backmatter.  It is tolerant of raw markdown, with intelligent parsing of headers and bullets while ignoring tables and base text, along with support for CSS, and allows for initial fold status at the node level, so it's an ideal candidate for initial exploration of the concept.  Markmap does not render unstructured datasets or hierarchies deeper than six.
 
-The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address canvas-style, tree-style, workflow, state diagram, ganntt, C4, and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects, even if the views leverage different renderers.
+The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address canvas-style, tree-style, workflow, state diagram, ganntt, C4, and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects.
 
 ### Markmap
 #### Example Frontmatter
@@ -80,16 +80,24 @@ All simulations have excel-generated guids, which are reliable for test purposes
 #### **Curriculum**:  Syllabus for a freshman-level ancient history course
 
 #### **Learning Path**: Example learning path
-##### [Mindmap](https://cloudmappr.github.io/atlas/learningPath)
+<iframe
+  src="https://cloudmappr.github.io/atlas/learningPath"
+  style="width:100%; height:400px;"
+></iframe>
 
-#### [Mock Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
+<iframe
+  src="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK"
+  style="width:100%; height:400px;"
+></iframe>
+
+### [Mock Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
 Mock data for these and a variety of structures are provided in the atlas 
 
-#####  **uatDataSet**:  User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record, populating the results into an appropriate persistent data store to generate backmatter and allow the user to enrich the data.
+####  **uatDataSet**:  User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record, populating the results into an appropriate persistent data store to generate backmatter and allow the user to enrich the data.
 
-#####  **wbs2markmap**: Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
+####  **wbs2markmap**: Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
 
-#####  **markmap2wbs**:   Converts hash-annotated markmap into a numerically accurate structure with guids.
+####  **markmap2wbs**:   Converts hash-annotated markmap into a numerically accurate structure with guids.
 
 ### In Context
 #### [Structure Display, Attributes, Summary nav](image-4.png)
