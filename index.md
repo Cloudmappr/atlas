@@ -2,7 +2,7 @@
 markmap: 
   colorFreezeLevel: 2
   maxWidth: 300
-  initialExpandLevel: 2
+  initialExpandLevel: 4
   embedAssets: true
 ---
 # Introducing Atlas
@@ -26,7 +26,7 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 
 ### Use cases
 
-#### **strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
+#### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
 #### **Analysts** can construct reports across structures for comparative and historical analysis.  
 #### **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
 #### **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
@@ -35,7 +35,7 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 #### **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
 
 
-## Proof of concept
+## Proof of concept<!-- markmap: foldAll -->
 The PoC is built on, but not dependent on, [Markmap](https://github.com/markmap/markmap) (MIT License), a typescript mindmap renderer leveraging YAML-like markup for structure, resulting in simple. human-readable backmatter.  It is tolerant of raw markdown, with intelligent parsing of headers and bullets while ignoring tables and base text, along with support for CSS, and allows for initial fold status at the node level, so it's an ideal candidate for initial exploration of the concept.  Markmap does not render unstructured datasets or hierarchies deeper than six.
 
 The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address canvas-style, tree-style, workflow, state diagram, ganntt, C4, and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects, even if the views leverage different renderers.
