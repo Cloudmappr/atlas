@@ -1,0 +1,83 @@
+1 WBS for MIL-STD-811f Appendix B: Electronics/Avionics/Generic Systems
+1.1 Prime Mission Product (PMP) 1...n (Specify)
+1.1.1 PMP Integration, Assembly, Test, and Checkout
+1.1.2 PMP Subsystem 1...n (Specify)
+1.1.2.1 Subsystem Integration, Assembly, Test, and Checkout
+1.1.2.2 Subsystem Hardware 1...n (Specify)
+1.1.2.3 Subsystem Software Release 1...n (Specify)
+1.1.3 PMP Software Release 1...n (Specify)
+1.1.3.1 Computer Software Configuration Item (CSCI) 1...n (Specify)
+1.1.3.2 PMP Software Integration, Assembly, Test, and Checkout
+1.2 Platform Integration, Assembly, Test, and Checkout
+1.3 Systems Engineering
+1.3.1 Software Systems Engineering
+1.3.2 Integrated Logistics Support (ILS) Systems Engineering
+1.3.3 Cybersecurity Systems Engineering
+1.3.4 Core Systems Engineering
+1.3.5 Other Systems Engineering 1...n (Specify)
+1.4 Program Management
+1.4.1 Software Program Management
+1.4.2 Integrated Logistics Support (ILS) Program Management
+1.4.3 Cybersecurity Management
+1.4.4 Core Program Management
+1.4.5 Other Program Management 1...n (Specify)
+1.5 System Test and Evaluation
+1.5.1 Developmental Test and Evaluation
+1.5.1.1 Engineering Development Test
+1.5.1.2 System Qualification Test
+1.5.1.3 Cybersecurity Test and Evaluation
+1.5.1.4 Other DT&E Tests 1…n (Specify)
+1.5.2 Operational Test and Evaluation
+1.5.2.1 Cybersecurity Test and Evaluation
+1.5.2.2 Other OT&E Tests 1…n (Specify) 
+1.5.3 Live Fire Test and Evaluation
+1.5.4 Mock-ups/System Integration Labs (SILs)
+1.5.5 Test and Evaluation Support
+1.5.6 Test Facilities
+1.6 Training
+1.6.1 Equipment
+1.6.1.1 Operator Instructional Equipment
+1.6.1.2 Maintainer Instructional Equipment
+1.6.2 Services
+1.6.2.1 Operator Instructional Services
+1.6.2.2 Maintainer Instructional Services
+1.6.3 Facilities
+1.6.4 Training Software 1...n (Specify)
+1.7 Data
+1.7.1 Data Deliverables 1...n (Specify)
+1.7.2 Data Repository
+1.7.3 Data Rights 1...n (Specify)
+1.8 Peculiar Support Equipment
+1.8.1 Test and Measurement Equipment
+1.8.1.1 Test and Measurement Equipment (Airframe/Hull/Vehicle)
+1.8.1.2 Test and Measurement Equipment (Propulsion)
+1.8.1.3 Test and Measurement Equipment (Electronics/Avionics)
+1.8.1.4 Test and Measurement Equipment (Other Major Subsystems 1...n) (Specify))
+1.8.2 Support and Handling Equipment
+1.8.2.1 Support and Handling Equipment (Airframe/Hull/Vehicle)
+1.8.2.2 Support and Handling Equipment (Propulsion)
+1.8.2.3 Support and Handling Equipment (Electronics/Avionics)
+1.8.2.4 Support and Handling Equipment (Other Major Subsystems 1...n (Specify))
+1.9 Common Support Equipment
+1.9.1 Test and Measurement Equipment
+1.9.1.1 Test and Measurement Equipment (Airframe/Hull/Vehicle)
+1.9.1.2 Test and Measurement Equipment (Propulsion)
+1.9.1.3 Test and Measurement Equipment (Electronics/Avionics)
+1.9.1.4 Test and Measurement Equipment (Other Major Subsystems 1...n (Specify))
+1.9.2 Support and Handling Equipment
+1.9.2.1 Support and Handling Equipment (Airframe/Hull/Vehicle)
+1.9.2.2 Support and Handling Equipment (Propulsion)
+1.9.2.3 Support and Handling Equipment (Electronics/Avionics)
+1.9.2.4 Support and Handling Equipment (Other Major Subsystems 1...n (Specify))
+1.10 Operational/Site Activation by Site 1...n (Specify)
+1.10.1 System Assembly, Installation, and Checkout on Site
+1.10.2 Contractor Technical Support 
+1.10.3 Site Construction 
+1.10.4 Site /Ship/Vehicle Conversion
+1.10.5 Interim Contractor Support (ICS)
+1.11 Contractor Logistics Support (CLS)
+1.12 Industrial Facilities
+1.12.1 Construction/Conversion/Expansion
+1.12.2 Equipment Acquisition or Modernization
+1.12.3 Maintenance (Industrial Facilities)
+1.13 Initial Spares and Repair Parts

@@ -1,0 +1,170 @@
+1 WBS for MIL-STD-811f Appendix D: Strategic Missile Systems
+1.1 Strategic Missile Systems Integration, Assembly, Test, and Checkout
+1.2 Air Vehicle Equipment (AVE)/Flight Vehicle Equipment (FVE)
+1.2.1 AVE/FVE SEIT/PM and Support Equipment
+1.2.2 Aero-Structures (Non-Stage Related)
+1.2.3 Stage (1...3) Interstage
+1.2.3.1 Stage 1 Interstage
+1.2.3.1.1 Stage 1 Interstage SEIT/PM and Support Equipment
+1.2.3.1.2 Structures and Mechanisms
+1.2.3.1.3 Separation Ordnance
+1.2.3.1.4 Attitude Control System (ACS)
+1.2.3.1.5 Interstage Peculiar Avionics
+1.2.3.1.6 Cable and Harness Assembly
+1.2.3.1.7 Flight Termination/Mission Termination
+1.2.3.1.8 Instrumentation/Telemetry
+1.2.3.2 Stage 2 Interstage
+1.2.3.3 Stage 3 Interstage
+1.2.4 Other AVE/FVE Structures 1...n (Specify)
+1.2.5 Stage (1...3)
+1.2.5.1 Stage 1
+1.2.5.1.1 Stage SEIT/PM and Support Equipment
+1.2.5.1.2 Structures and Mechanisms
+1.2.5.1.3 Propulsion System
+1.2.5.1.4 Attitude Control System
+1.2.5.1.5 Stage Peculiar Avionics
+1.2.5.1.6 Cable Assembly
+1.2.5.1.7 Flight Termination/Mission Termination
+1.2.5.1.8 Instrumentation/Telemetry
+1.2.5.2 Stage 2
+1.2.5.3 Stage 3
+1.2.6 Power and Distribution
+1.2.6.1 Power and Distribution SEIT/PM and Support Equipment
+1.2.6.2 Primary Power
+1.2.6.3 Power Conditioning Electronics
+1.2.6.4 Distribution Harness
+1.2.6.5 Power and Distribution Software Release 1...n (Specify)
+1.2.7 Guidance and Control
+1.2.7.1 Guidance and Control SEIT/PM and Support Equipment
+1.2.7.2 Guidance Computer
+1.2.7.3 Guidance and Control Electronics
+1.2.7.4 Navigation/Inertial Measurement Unit (IMU)
+1.2.7.5 Guidance and Control Cooling System
+1.2.7.6 Computer Memory Battery
+1.2.7.7 Guidance and Control Cables
+1.2.7.8 Guidance and Control Software Release 1...n (Specify)
+1.2.8 Communications
+1.2.8.1 Communications SEIT/PM and Support Equipment
+1.2.8.2 Antenna Assembly 1...n (Specify)
+1.2.8.3 Transceiver Assembly 1...n (Specify)
+1.2.8.4 Communications Software Release 1...n (Specify)
+1.2.9 Post Boost/Attitude Control Module (PBACM)
+1.2.9.1 PBACM SEIT/PM and Support Equipment
+1.2.9.2 Structures and Mechanisms
+1.2.9.3 Propulsion System
+1.2.9.4 Countermeasures
+1.2.9.5 PBACM Peculiar Avionics
+1.2.9.6 Cable Assembly
+1.2.9.7 Flight Termination/Mission Termination
+1.2.9.8 Instrumentation/Telemetry
+1.2.10 Payload/Reentry Systems
+1.2.10.1 Payload/Reentry Systems SEIT/PM and Support Equipment
+1.2.10.2 Payload/Reentry Vehicle 1...n (Specify)
+1.2.10.3 Countermeasures
+1.2.10.4 Deployment Housing/Bulkheads
+1.2.11 Ordnance Initiation Set
+1.2.12 On Board Test Equipment
+1.3 Encasement Device
+1.3.1 Encasement Device SEIT/PM and Support Equipment
+1.3.2 Encasement Device Structure
+1.3.3 Encasement Device Software Release 1...n (Specify)
+1.3.4 Other Encasement Device Subsystems 1...n (Specify)
+1.4 Command and Launch
+1.4.1 Command and Launch SEIT/PM and Support Equipment
+1.4.2 Launch and Guidance Control/Fire Control
+1.4.3 Communications
+1.4.4 Launch and Encasement Equipment
+1.4.5 Auxiliary Equipment
+1.4.6 Command and Launch (Ground) Software Release 1...n (Specify)
+1.4.7 Infrastructure
+1.4.8 Other Command and Launch 1...n (Specify)
+1.5 Systems Engineering
+1.5.1 Software Systems Engineering
+1.5.2 Integrated Logistics Support (ILS) Systems Engineering
+1.5.3 Cybersecurity Systems Engineering
+1.5.4 Nuclear Hardening and Survivability (NH&S)
+1.5.5 System Safety
+1.5.6 Nuclear Surety
+1.5.7 Core Systems Engineering
+1.5.8 Other Systems Engineering 1...n (Specify)
+1.6 Program Management
+1.6.1 Software Program Management
+1.6.2 Integrated Logistics Support (ILS) Program Management
+1.6.3 Cybersecurity Management
+1.6.4 Program Control
+1.6.5 Core Program Management
+1.6.6 Other Program Management 1...n (Specify)
+1.7 System Test and Evaluation
+1.7.1 Developmental Test and Evaluation
+1.7.1.1 Prototype (Pathfinder) Testing
+1.7.1.2 Qualification Test (X & PEM)
+1.7.1.3 Static Testing
+1.7.1.4 System Integration Testing
+1.7.1.5 System Acceptance Testing
+1.7.1.6 Cybersecurity Test and Evaluation
+1.7.1.7 Other DT&E Tests 1…n (Specify)
+1.7.2 Operational Test and Evaluation
+1.7.2.1 Initial Commander Evaluation Test 
+1.7.2.2 Ground/Simulated Electronic Launch
+1.7.2.3 Flight Testing 1…n (Specify)
+1.7.2.4 Cybersecurity Test and Evaluation
+1.7.2.5 Contractor Support 1…n (Specify)
+1.7.2.6 Operational Test and Evaluation Software Release 1…n (Specify)
+1.7.2.7 Other OT&E Tests 1…n (Specify)
+1.7.3 Mock-ups/System Integration Labs (SILs)
+1.7.4 Test and Evaluation Support
+1.7.4.1 Test Planning
+1.7.4.2 Pretest Activities
+1.7.4.3 Post-Test Analysis
+1.7.5 Test Facilities
+1.7.5.1 Commercial
+1.7.5.2 Government
+1.7.5.3 Test Equipment
+1.7.5.4 Instrumentation Testing
+1.7.6 Specialized Test Equipment
+1.8 Training
+1.8.1 Equipment
+1.8.1.1 Operator Instructional Equipment
+1.8.1.2 Maintainer Instructional Equipment
+1.8.2 Services
+1.8.2.1 Operator Instructional Services
+1.8.2.2 Maintainer Instructional Services
+1.8.3 Facilities
+1.8.4 Training Software Release 1...n (Specify)
+1.9 Data
+1.9.1 Data Deliverables 1...n (Specify)
+1.9.2 Data Repository
+1.9.3 Data Rights 1...n (Specify)
+1.10 Peculiar Support Equipment
+1.10.1 Test and Measurement Equipment
+1.10.1.1 Test and Measurement Equipment (Airframe/Hull/Vehicle)
+1.10.1.2 Test and Measurement Equipment (Propulsion)
+1.10.1.3 Test and Measurement Equipment (Electronics/Avionics)
+1.10.1.4 Test and Measurement Equipment (Other Major Subsystem 1...n (Specify))
+1.10.2 Support and Handling Equipment
+1.10.2.1 Support and Handling Equipment (Airframe/Hull/Vehicle)
+1.10.2.2 Support and Handling Equipment (Propulsion)
+1.10.2.3 Support and Handling Equipment (Electronics/Avionics)
+1.10.2.4 Support and Handling Equipment (Other Major Subsystem 1...n (Specify))
+1.11 Common Support Equipment
+1.11.1 Test and Measurement Equipment
+1.11.1.1 Test and Measurement Equipment (Airframe/Hull/Vehicle)
+1.11.1.2 Test and Measurement Equipment (Propulsion)
+1.11.1.3 Test and Measurement Equipment (Electronics/Avionics)
+1.11.1.4 Test and Measurement Equipment (Other Major Subsystem 1...n (Specify))
+1.11.2 Support and Handling Equipment
+1.11.2.1 Support and Handling Equipment (Airframe/Hull/Vehicle)
+1.11.2.2 Support and Handling Equipment (Propulsion)
+1.11.2.3 Support and Handling Equipment (Electronics/Avionics)
+1.11.2.4 Support and Handling Equipment (Other Major Subsystem 1...n (Specify))
+1.12 Operational/Site Activation by Site 1...n (Specify)
+1.12.1 System Assembly, Installation, and Checkout
+1.12.2 Contractor Technical Support
+1.12.3 Site Construction
+1.12.4 Site/Ship/Vehicle Conversion
+1.12.5 Deployment Planning
+1.12.6 Aerospace Ground Equipment
+1.12.7 Real Property Installed Equipment
+1.12.8 Interim Contractor Support (ICS)
+1.13 Contractor Logistics Support (CLS)
+1.14 Initial Spares/Repair Parts

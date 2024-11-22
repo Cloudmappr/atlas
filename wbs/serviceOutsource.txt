@@ -1,0 +1,65 @@
+1 WBS for Outsourcing Project
+1.1. Needs Analysis
+1.1.1 Needs Analysis 
+1.1.1.1 Feasibility Study
+1.1.1.2 Historical Information
+1.1.2 Definition and Baseline Requirements
+1.1.2.1 Project Approach Strategy
+1.1.2.2 High-Level Project Plan
+1.1.2.3 Cost Estimates
+1.1.2.4 Scope Statement
+1.1.3 Specifications
+1.1.4 High-Level Statement of Work
+1.2 Market Analysis
+1.2.1 Internal Capability Plus Cost
+1.2.2 Qualified Vendors
+1.2.3 RFI (Information)
+1.2.4 RFI Submissions
+1.2.5 Decision Analysis (Includes Make/Buy)
+1.3 Request for Proposal (RFP)
+1.3.1  RFP Development
+1.3.1.1 Solution Criteria
+1.3.1.2 Background and General Scope of Work
+1.3.1.3 Priorities/Requirements
+1.3.1.4 Type of Solution Sought
+1.3.1.5 Maintenance and Support; Warranty; Training
+1.3.2 Acceptance Requirements
+1.3.3 Schedule
+1.3.4 Budget
+1.3.5  RFP Package
+1.3.5.1  Instructions for Preparation/Delivery of Submissions
+1.3.5.2  Evaluation Criteria
+1.3.5.3  Site Inspection Requirements
+1.3.5.4  Withdrawal or Modifications of Proposals
+1.3.5.5 Responsibility for Proposal Costs
+1.4 Solicitation
+1.4.1 RFP Issuance
+1.4.2 Bids
+1.4.3 Bidder Conference
+1.4.4 RFP submissions/Receipt
+1.4.5 Response Evaluation
+1.4.6 Vendor Criteria Matrix
+1.4.7 Scorecard
+1.4.8 Vendor Qualification
+1.4.8.1 Prior Experience
+1.4.8.2 Available Vendor Resources/Available Time
+1.4.8.3 Quality references 
+1.4.9 Vendor Award 
+1.4.9.1 Management Approvals
+1.4.9.2 Legal Review and Approvals
+1.4.10 Letter of Intent (LOI)
+1.5 Contract
+1.5.1 Master Agreement
+1.5.1.1 Contract Negotiation
+1.5.1.2 Finalized Terms and Conditions
+1.5.1.3 Finalized Scope/Schedule/Cost
+1.5.2 Contract Orders/Task Orders/CSOWs
+1.5.2.1 Specific Deliverables
+1.5.2.2 Identified Resources
+1.5.2.3 Defined SLAs
+1.5.2.4 Defined Acceptance Criteria
+1.5.2.5 Defined Performance Measures
+1.5.2.6 Issued PO/Task Order
+1.5.3 Executed Agreement/Signed Contract
+1.6 Task Order/Contract Order SOW
+1.7 Project Management

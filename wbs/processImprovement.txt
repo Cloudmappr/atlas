@@ -1,0 +1,78 @@
+1 WBS for Process Improvement Project
+1.1 Phase 1:  Research and Recommendations
+1.1.1 Phase 1 Charter
+1.1.2 Project Management Plans for Phase 1
+1.1.3 Research
+1.1.3.1 Documentation of the "State of the Art"
+1.1.3.1.1 Document Search
+1.1.3.1.2 Consultation with Experts
+1.1.3.1.3 Benchmarking
+1.1.3.1.4 Product and Software Review
+1.1.3.2 Documentation of the Current State in the Subject Organization
+1.1.3.2.1 Interviews
+1.1.3.2.2 Surveys
+1.1.3.2.3 Statistical Analysis
+1.1.3.2.4 Flow Charts of Current Processes
+1.1.4 Identification of Improvement Needs
+1.1.4.1 Determination of Desired State (Vision Statement)
+1.1.4.2 Gap Analysis
+1.1.4.3 Most Likely Solutions 
+1.1.4.3.1 Brainstorming
+1.1.4.3.2 Statistical Analysis
+1.1.4.3.3 Flow Charts of Desired Processes
+1.1.5 Recommendations
+1.1.5.1 Recommendation 1
+1.1.5.1.1 Draft Charter
+1.1.5.1.2 Estimated Cost
+1.1.5.2 Recommendation 2
+1.1.5.2.1 Draft Charter
+1.1.5.2.2 Estimated Cost
+1.1.5.3 Recommendation 3
+1.1.5.3.1 Draft Charter
+1.1.5.3.2 Estimated Cost
+1.2 Phase 2: Implementation of Approved Recommendation (This portion of the WBS is repeated for each approved recommendation)
+1.2.1 Recommendation x Charter (approved and amended version of the draft from 1.1.5)
+1.2.2 Project Management Plans for Phase 2 (seven plans, as for Phase 1)
+1.2.3 Process Documentation
+1.2.3.1 Draft process (policy, handbook, manual chapter, etc.)
+1.2.3.2 Review
+1.2.3.3 Revision (1.2.3.2 and 1.2.3.3 are iterative—repeat until there is consensus)
+1.2.3.4 Publication
+1.2.3.4.1 Hardcopy
+1.2.3.4.2 Internet or Intranet
+1.2.3.4.3 Other
+1.2.4 Tools (software, etc.)
+1.2.4.1 Design
+1.2.4.2 Build
+1.2.4.3 Test
+1.2.4.4 Revision (1.2.4.3 and 1.2.4.4 are iterative—repeat until the product meets its goals)
+1.2.4.5 Implementation
+1.2.5 Training
+1.2.5.1 Instructors
+1.2.5.1.1 Hiring
+1.2.5.1.2 Training (“Train the Trainers”)
+1.2.5.2 Development
+1.2.5.2.1 Draft Training Materials
+1.2.5.2.2 Review and Pilot
+1.2.5.2.3 Revision (1.2.5.2.2 and 1.2.5.2.3 are iterative—repeat until the class meets its goals)
+1.2.5.3 Delivery
+1.3 Phase 3: Evaluation
+1.3.1 Project Management Plans for Phase 3 (seven plans, as for Phase 1)
+1.3.2 Documentation of the New State in the Subject Organization
+1.3.2.1 Interviews
+1.3.2.2 Surveys
+1.3.2.3 Statistical Analysis
+1.3.2.4 Flow Charts of New Processes
+1.3.3 Identification of Deficiencies
+1.3.3.1 Flow Charts of Desired Processes (from 1.4.3.3)
+1.3.3.2 Gap Analysis
+1.3.4 Recommendations for New Projects
+1.3.4.1 Recommendation 1
+1.3.4.1.1 Draft Charter
+1.3.4.1.2 Estimated Cost
+1.3.4.2 Recommendation 2
+1.3.4.2.1 Draft Charter
+1.3.4.2.2 Estimated Cost
+1.3.4.3 Recommendation n
+1.3.4.3.1 Draft Charter
+1.3.4.3.2 Estimated Cost

@@ -1,0 +1,92 @@
+1 WBS for MIL-STD-811f Appendix J: Information Systems (IS)/Defense Business Systems (DBS) (Investment)
+1.1 IS/DBS Development/Customization/Configuration
+1.1.1 Custom Application 1...n (Specify)
+1.1.1.1 Subsystem Hardware (Specify)
+1.1.1.2 Subsystem Software CSCI 1...n (Specify)
+1.1.1.3 Subsystem Software Level Integration, Assembly, Test, and Checkout
+1.1.2 Enterprise Service Element 1...n (Specify)
+1.1.2.1 Enterprise Service Element Hardware (Specify)
+1.1.2.2 Enterprise Service Element Software CSCI 1...n (Specify)
+1.1.2.3 Enterprise Service Element Integration, Assembly, Test, and Checkout
+1.1.3 Enterprise/Management Information System 1...n (Specify)
+1.1.3.1 Business Area Hardware (Specify)
+1.1.3.2 Business Area Software CSCI 1...n (Specify)
+1.1.3.3 Business Area Integration, Assembly, Test, and Checkout
+1.1.4 External System Interface Development 1...n (Specify)
+1.1.4.1 External System Interface Hardware (Specify)
+1.1.4.2 External System Interface Software CSCI 1...n (Specify)
+1.1.4.3 External System Interface Integration, Assembly, Test, and Checkout
+1.1.5 System Level Infrastructure (Specify)
+1.1.5.1 System Level Hardware (Specify)
+1.1.5.2 Service Infrastructure 1...n (Specify)
+1.2 System Level Integration
+1.3 Systems Engineering
+1.3.1 Software Systems Engineering
+1.3.2 Integrated Logistics Support (ILS) Systems Engineering
+1.3.3 Cybersecurity Systems Engineering
+1.3.4 Core Systems Engineering
+1.3.5 Other Systems Engineering 1...n (Specify)
+1.4 Program Management
+1.4.1 Software Program Management
+1.4.2 Integrated Logistics Support (ILS) Program Management
+1.4.3 Cybersecurity Program Management
+1.4.4 Core Program Management
+1.4.5 Other Program Management 1...n (Specify)
+1.5 Change Management
+1.6 Data Management
+1.7 System Test and Evaluation
+1.7.1 Developmental Test and Evaluation
+1.7.1.1 Cybersecurity Test and Evaluation
+1.7.1.2 Other DT&E Tests 1…n (Specify)
+1.7.2 Operational Test and Evaluation
+1.7.2.1 Cybersecurity Test and Evaluation
+1.7.2.2 Other OT&E Tests 1…n (Specify)
+1.7.3 Mock-ups/System Integration Labs (SILs
+1.7.4 Test and Evaluation Management/Support
+1.7.5 Test Facilities
+1.8 Training
+1.8.1 Equipment
+1.8.2 Services
+1.8.3 Facilities
+1.8.4 Training Software 1...n (Specify)
+1.9 Data
+1.9.1 Data Deliverables 1...n (Specify)
+1.9.2 Data Repository
+1.9.3 Data Rights 1...n (Specify)
+1.10 Peculiar Support Equipment
+1.10.1 Test and Measurement Equipment
+1.10.2 Support and Handling Equipment
+1.11 Common Support Equipment
+1.11.1 Test and Measurement Equipment
+1.11.2 Support and Handling Equipment
+1.12 Operational Infrastructure/Site Activation by Site 1...n (Specify)
+1.12.1 Initial Hardware Procurement
+1.12.1.1 End User Equipment
+1.12.1.2 Cybersecurity Equipment
+1.12.1.3 IT Infrastructure and Enterprise Software Equipment
+1.12.1.4 Other 1...n (Specify)
+1.12.2 Initial Software License Procurement
+1.12.2.1 End User Software License
+1.12.2.2 Cybersecurity Software Licenses/Services
+1.12.2.3 IT Infrastructure and Equipment
+1.12.2.4 Other 1...n (Specify)
+1.12.3 Initial Software Release (Pre-IOC) Modification/Enhancement
+1.12.3.1 Routine Fixes/Deficiency Correction
+1.12.3.2 Deployment Independent Verification and Validation
+1.12.3.3 Installation/Test
+1.12.4 Site Activation
+1.12.4.1 Data Migration
+1.12.4.2 User Training
+1.12.4.3 User Documentation
+1.12.4.4 Management/Engineering Support
+1.12.4.5 Site Installation, Test, and Checkout
+1.12.5 Interim Operations and Support (Pre-IOC)
+1.12.5.1 Help Desk
+1.12.5.2 System Database Administrator
+1.12.5.3 Installation, Test, and Checkout
+1.12.5.4 IT Equipment Maintenance
+1.13 Industrial Facilities
+1.13.1 Construction/Conversion/Expansion
+1.13.2 Equipment Acquisition or Modernization
+1.13.3 Maintenance (Industrial Facilities)
+1.14 Initial Spares and Repair Parts

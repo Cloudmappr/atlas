@@ -1,0 +1,156 @@
+1 WBS for MIL-STD-811f Appendix C: Missile/Ordnance System
+1.1 Missile/Ordnance System Integration, Assembly, Test, and Checkout
+1.2 Air Vehicle/Munition
+1.2.1 Air Vehicle/Munition Integration, Assembly, Test, and Checkout
+1.2.2 Airframe
+1.2.2.1 Airframe Integration, Assembly, Test, and Checkout
+1.2.2.2 Primary Structure
+1.2.2.3 Secondary Structure
+1.2.2.4 Aero-Structures
+1.2.2.5 Other Airframe Components 1...n (Specify)
+1.2.3 Propulsion Subsystem 1...n (Specify)
+1.2.3.1 Propulsion Integration, Assembly, Test, and Checkout
+1.2.3.2 Motor/Engine (Specify)
+1.2.3.3 Fuel Management
+1.2.3.4 Thrust Vector Actuation
+1.2.3.5 Attitude Control System
+1.2.3.6 Arm/Fire Device
+1.2.3.7 Flight Termination/Mission Termination
+1.2.3.8 Propulsion Software Release 1...n (Specify)
+1.2.3.9 Other Propulsion Subsystems 1...n (Specify)
+1.2.4 Power and Distribution
+1.2.4.1 Power and Distribution Integration, Assembly, Test, and Checkout
+1.2.4.2 Primary Power
+1.2.4.3 Power Conditioning Electronics
+1.2.4.4 Distribution Harness
+1.2.4.5 Power and Distribution Software Release 1...n (Specify)
+1.2.4.6 Other Power and Distribution Subsystems 1...n (Specify)
+1.2.5 Guidance
+1.2.5.1 Guidance Integration, Assembly, Test, and Checkout
+1.2.5.2 Dome Assembly
+1.2.5.3 Seeker Assemblies
+1.2.5.4 Mission Computer
+1.2.5.5 Guidance Software Release 1...n (Specify)
+1.2.5.6 Other Guidance Subsystems 1...n (Specify)
+1.2.6 Navigation
+1.2.6.1 Navigation Integration, Assembly, Test, and Checkout
+1.2.6.2 Sensor Assemblies
+1.2.6.3 Navigation Software Release 1...n (Specify)
+1.2.6.4 Other Navigation Subsystems 1...n (Specify)
+1.2.7 Controls
+1.2.7.1 Controls Integration, Assembly, Test, and Checkout
+1.2.7.2 Primary Structure
+1.2.7.3 Fin/Canard Deployment System
+1.2.7.4 Actuators
+1.2.7.5 Control Power
+1.2.7.6 Controls Software Release 1...n (Specify)
+1.2.7.7 Other Control Subsystems 1...n (Specify)
+1.2.8 Communications
+1.2.8.1 Communications Integration, Assembly, Test, and Checkout
+1.2.8.2 Antenna Assembly
+1.2.8.3 Transmitter
+1.2.8.4 Receiver
+1.2.8.5 Communications Software Release 1...n (Specify)
+1.2.8.6 Other Communications Subsystems 1...n (Specify)
+1.2.9 Payload
+1.2.9.1 Payload Integration, Assembly, Test, and Checkout
+1.2.9.2 Target Defeat Mechanism
+1.2.9.3 Target Detection Device
+1.2.9.4 Fuze
+1.2.9.5 Payload Software Release 1...n (Specify)
+1.2.9.6 Other Payload Subsystems 1...n (Specify)
+1.2.10 On Board Test Equipment
+1.2.11 On Board Training Equipment
+1.2.12 Auxiliary Equipment
+1.2.13 Air Vehicle Software Release 1...n (Specify)
+1.3 Encasement Device
+1.3.1 Encasement Device Integration, Assembly, Test, and Checkout
+1.3.2 Encasement Device Structure
+1.3.3 Encasement Device Software Release 1...n (Specify)
+1.3.4 Other Encasement Device Subsystems 1...n (Specify)
+1.4 Command and/or Launch
+1.4.1 Command and/or Launch Integration, Assembly, Test, and Checkout
+1.4.2 Surveillance, Identification and Tracking Sensors
+1.4.3 Communications
+1.4.4 Launcher
+1.4.5 Adapter Kits
+1.4.6 Launch and Guidance Control
+1.4.7 Ready Magazine
+1.4.8 Auxiliary Equipment
+1.4.9 Command and/or Launch Software Release 1...n (Specify)
+1.4.10 Other Command and/or Launch 1...n (Specify)
+1.5 Missile/Ordnance System Software Release 1...n (Specify)
+1.6 Platform Integration, Assembly, Test, and Checkout 1...n (Specify)
+1.7 Systems Engineering
+1.7.1 Software Systems Engineering
+1.7.2 Integrated Logistics Support (ILS) Systems Engineering
+1.7.3 Cybersecurity Systems Engineering
+1.7.4 Core Systems Engineering
+1.7.5 Other Systems Engineering 1...n (Specify)
+1.8 Program Management
+1.8.1 Software Program Management
+1.8.2 Integrated Logistics Support (ILS) Program Management
+1.8.3 Cybersecurity Management
+1.8.4 Core Program Management
+1.8.5 Other Program Management 1...n (Specify)
+1.9 System Test and Evaluation
+1.9.1 Developmental Test and Evaluation
+1.9.1.1 Engineering Development Test
+1.9.1.2 System Qualification Test
+1.9.1.3 Test Instrumentation Kits (TIK)
+1.9.1.4 Cybersecurity Test and Evaluation
+1.9.1.5 Other DT&E Tests 1…n (Specify)
+1.9.2 Operational Test and Evaluation
+1.9.2.1 Cybersecurity Test and Evaluation
+1.9.2.2 Other OT&E Tests 1…n (Specify) 
+1.9.3 Live Fire Test and Evaluation
+1.9.4 Mock-ups/System Integration Labs (SILs)
+1.9.5 Test and Evaluation Support
+1.9.6 Test Facilities
+1.10 Training
+1.10.1 Equipment
+1.10.1.1 Operator Instructional Equipment
+1.10.1.2 Maintainer Instructional Equipment
+1.10.2 Services
+1.10.2.1 Operator Instructional Services
+1.10.2.2 Maintainer Instructional Services
+1.10.3 Facilities
+1.10.4 Training Software 1...n (Specify)
+1.11 Data
+1.11.1 Data Deliverables 1...n (Specify)
+1.11.2 Data Repository
+1.11.3 Data Rights 1...n (Specify)
+1.12 Peculiar Support Equipment
+1.12.1 Test and Measurement Equipment
+1.12.1.1 Test and Measurement Equipment (Airframe/Hull/Vehicle)
+1.12.1.2 Test and Measurement Equipment (Propulsion)
+1.12.1.3 Test and Measurement Equipment (Electronics/Avionics)
+1.12.1.4 Test and Measurement Equipment (Other Major Subsystems 1...n (Specify))
+1.12.2 Support and Handling Equipment
+1.12.2.1 Support and Handling Equipment (Airframe/Hull/Vehicle)
+1.12.2.2 Support and Handling Equipment (Propulsion)
+1.12.2.3 Support and Handling Equipment (Electronics/Avionics)
+1.12.2.4 Support and Handling Equipment (Other Major Subsystems 1...n (Specify))
+1.13 Common Support Equipment
+1.13.1 Test and Measurement Equipment
+1.13.1.1 Test and Measurement Equipment (Airframe/Hull/Vehicle)
+1.13.1.2 Test and Measurement Equipment (Propulsion)
+1.13.1.3 Test and Measurement Equipment (Electronics/Avionics)
+1.13.1.4 Test and Measurement Equipment (Other Major Subsystems 1...n (Specify))
+1.13.2 Support and Handling Equipment
+1.13.2.1 Support and Handling Equipment (Airframe/Hull/Vehicle)
+1.13.2.2 Support and Handling Equipment (Propulsion)
+1.13.2.3 Support and Handling Equipment (Electronics/Avionics)
+1.13.2.4 Support and Handling Equipment (Other Major Subsystems 1...n (Specify))
+1.14 Operational/Site Activation by Site 1...n (Specify)
+1.14.1 System Assembly, Installation, and Checkout
+1.14.2 Contractor Technical Support
+1.14.3 Site Construction
+1.14.4 Site/Ship/Vehicle Conversion
+1.14.5 Interim Contractor Support (ICS)
+1.15 Contractor Logistics Support (CLS)
+1.16 Industrial Facilities
+1.16.1 Construction/Conversion/Expansion
+1.16.2 Equipment Acquisition or Modernization
+1.16.3 Maintenance (Industrial Facilities)
+1.17 Initial Spares and Repair Parts
