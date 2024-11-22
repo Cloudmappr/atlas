@@ -14,32 +14,24 @@ Legal Use and Restrictions
 
 This document is intended solely for personal use and may not be shared, reproduced, or modified without prior written consent. Violators may be subject to legal action.
 
-## Overview
+## Overview & Use Cases
 Atlas is a conceptual structure visualization and annotation platform featuring a modular interactive renderer that allows the user to create or calculate multiple structured or unstructured views of their data.  These views can be shared with others, and the same data may be represented in different views while maintaining consistency.
 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
-### Demos<!-- markmap: foldAll -->
-#### This document rendered in markmap
 <iframe
   src="https://cloudmappr.github.io/atlas/atlasintro.html"
   style="width:100%; height:400px;"
 ></iframe>
 
-#### Work Breakdown with mock backend
-<iframe
-  src="https://cloudmappr.github.io/atlas/bicycleDemo_WBS.html"
-  style="width:100%; height:400px;"
-></iframe>
 
-### Use Cases
-#### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
-#### **Analysts** can construct reports across structures for comparative and historical analysis.  
-#### **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
-#### **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
-#### Buy-side **planners** can leverage Atlas to collect assets from vendors, suppliers and distributors.  
-#### **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
-#### **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
+### **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
+### **Analysts** can construct reports across structures for comparative and historical analysis.  
+### **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
+### **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
+### Buy-side **planners** can leverage Atlas to collect assets from endors, suppliers and distributors.  
+### **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
+### **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
 
 
 ## Proof of concept<!-- markmap: foldAll -->
