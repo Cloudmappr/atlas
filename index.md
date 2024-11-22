@@ -57,30 +57,35 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
 ### Simulations
 All simulations have excel-generated guids, which are reliable for test purposes but not RFC9562 compliant.
 
-#### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
 
 <iframe
   src="https://cloudmappr.github.io/atlas/bicycleDemo_WBS.html"
   style="width:100%; height:400px;"
 ></iframe>
 
-#### **Space System**:  System of System structure for MIL-STD-811F Appendix J Space System with over 400 elements
+#### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
+
+
 <iframe
   src="https://cloudmappr.github.io/atlas/spacedemo.html"
   style="width:100%; height:400px;"
 ></iframe>
 
-#### **Web Design**:  Typical web design work breakdown structure
+#### **Space System**:  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
+
 <iframe
   src="https://cloudmappr.github.io/atlas/webDesign_WBS"
   style="width:100%; height:400px;"
 ></iframe>
 
-#### **Curriculum**:  Syllabus for a freshman-level ancient history course
+#### **Web Design**:  Typical web design work breakdown structure
+
 <iframe
   src="https://cloudmappr.github.io/atlas/ancientHistory_Curr"
   style="width:100%; height:400px;"
 ></iframe>
+
+#### **Curriculum**:  Syllabus for a freshman-level ancient history course
 
 #### **Learning Path**: Example learning path
 ##### [Mindmap](https://cloudmappr.github.io/atlas/learningPath)
