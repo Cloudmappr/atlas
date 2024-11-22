@@ -15,7 +15,7 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
 <iframe
-  src="https://cloudmappr.github.io/atlas/atlasintro.html"
+  src="./demo/atlasintro.html"
   style="width:100%; height:400px;"
 ></iframe>
 
@@ -38,17 +38,17 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
 
 ### Markmap
 #### Example Frontmatter
-![frontmatter](image-3.png)
+![frontmatter](./img/image-3.png)
 
 #### Example backmatter
-![backmatter](image-2.png)
+![backmatter](./img/image-2.png)
 
 ### Simulations
 All simulations have excel-generated guids, which are reliable for test purposes but not RFC9562 compliant.
 
 
 <iframe
-  src="https://cloudmappr.github.io/atlas/bicycleDemo_WBS.html"
+  src="./demo/bicycleDemo_WBS.html"
   style="width:100%; height:400px;"
 ></iframe>
 
@@ -56,35 +56,35 @@ All simulations have excel-generated guids, which are reliable for test purposes
 
 
 <iframe
-  src="./spacedemo.html"
+  src="./demo/spacedemo.html"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Space System**:  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
 
 <iframe
-  src="https://cloudmappr.github.io/atlas/webDesign_WBS"
+  src="./demo/webDesign_WBS"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Web Design**:  Typical web design work breakdown structure
 
 <iframe
-  src="https://cloudmappr.github.io/atlas/ancientHistory_Curr"
+  src="./demo/ancientHistory_Curr"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Curriculum**:  Syllabus for a freshman-level ancient history course
 
 <iframe
-  src="https://cloudmappr.github.io/atlas/humanlanguages"
+  src="./demo/humanlanguages"
   style="width:100%; height:400px;"
 ></iframe>
 
 #### **Languages**: Human Language Taxonomy
 
 <iframe
-  src="https://cloudmappr.github.io/atlas/learningPath"
+  src="./demo/learningpath.html"
   style="width:100%; height:400px;"
 ></iframe>
 
@@ -111,31 +111,31 @@ Mock data for these and a variety of structures are provided in the atlas [templ
 
 ### In Context
 
-#### [Structure Display, Attributes, Summary nav](image-4.png)
+#### [Structure Display, Attributes, Summary nav](./img/image-4.png)
 
-![nav](image-4.png)
+![nav](./img/image-4.png)
 
-#### [Resource Attributes, Summary](image-6.png)
+#### [Resource Attributes, Summary](./img/image-6.png)
 
-![nav](image-6.png) 
+![nav](./img/image-6.png) 
 
-#### [Structure Inventory](image-5.png)
+#### [Structure Inventory](./img/image-5.png)
 
-![nav](image-5.png) 
+![nav](./img/image-5.png) 
 
-#### [Learning Path use case](image-7.png) 
+#### [Learning Path use case](./img/image-7.png) 
 
-![nav](image-7.png)
+![nav](./img/image-7.png)
 
-#### [Structure-level attributes](image-8.png)
+#### [Structure-level attributes](./img/image-8.png)
 
-![alt text](image-8.png)
+![alt text](./img/image-8.png)
 
-#### [Export](image-9.png)
+#### [Export](./img/image-9.png)
 
-![alt text](image-11.png)
-![alt text](image-12.png)
+![alt text](./img/image-11.png)
+![alt text](./img/image-12.png)
 
-#### [Cross-structure reporting](image-10.png)
+#### [Cross-structure reporting](./img/image-10.png)
 
-![alt text](image-10.png)
+![alt text](./img/image-10.png)
