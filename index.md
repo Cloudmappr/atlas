@@ -57,27 +57,30 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
 ### Simulations
 All simulations have excel-generated guids, which are reliable for test purposes but not RFC9562 compliant.
 
-#### **Bicycle Project Test**: Semi-functional demo for project quoting.  Has sample backend data and simulated iconography
+#### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
 
-##### [WBS](https://cloudmappr.github.io/atlas/bicycleDemo_WBS)
-
-##### [Mindmap](https://cloudmappr.github.io/atlas/bicycleDemo_MM)
+<iframe
+  src="https://cloudmappr.github.io/atlas/bicycleDemo_WBS.html"
+  style="width:100%; height:400px;"
+></iframe>
 
 #### **Space System**:  System of System structure for MIL-STD-811F Appendix J Space System with over 400 elements
-
-##### [WBS](https://cloudmappr.github.io/atlas/spaceSystem_WBS)
-
-##### [Mindmap](https://cloudmappr.github.io/atlas/spaceSystem_MM)
+<iframe
+  src="https://cloudmappr.github.io/atlas/spacedemo.html"
+  style="width:100%; height:400px;"
+></iframe>
 
 #### **Web Design**:  Typical web design work breakdown structure
-
-##### [WBS](https://cloudmappr.github.io/atlas/webDesign_WBS)
-
-##### [Mindmap](https://cloudmappr.github.io/atlas/webDesign_MM)
+<iframe
+  src="https://cloudmappr.github.io/atlas/webDesign_WBS"
+  style="width:100%; height:400px;"
+></iframe>
 
 #### **Curriculum**:  Syllabus for a freshman-level ancient history course
-
-##### [Mindmap](https://cloudmappr.github.io/atlas/ancientHistory_Curr)
+<iframe
+  src="https://cloudmappr.github.io/atlas/ancientHistory_Curr"
+  style="width:100%; height:400px;"
+></iframe>
 
 #### **Learning Path**: Example learning path
 ##### [Mindmap](https://cloudmappr.github.io/atlas/learningPath)
