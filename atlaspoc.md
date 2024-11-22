@@ -1,4 +1,5 @@
 # Atlas Proofs of Concept
+Copyright 2024 Paul Galjan
 
 ## Markmap
 [Markmap](https://github.com/markmap/markmap) (MIT License) is a typescript mindmap renderer leveraging YAML-like markup for structure, resulting in very simple human-readable backmatter.  Tolerant of raw markdown, with intelligent parsing of headers and bullets while ignoring tables and base text, along with support for CSS, and allows for initial fold status at the node level.  Markmap does not render unstructured datasets or hierarchies deeper than six.
