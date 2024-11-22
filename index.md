@@ -8,15 +8,15 @@ Legal Use and Restrictions
 This document is intended solely for personal use and may not be shared, reproduced, or modified without prior written consent. Violators may be subject to legal action.
 
 ## Overview
-Atlas is a concept for a scalable multi-user platform for structured planning and reporting featuring frictionless onboarding and granular access control for teams of any size and composition.  
+Atlas is a conceptual structure visualization and annotation tool featuring a modular interactive renderer that allows the user to represent their their data multiple structured or unstructured views, paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
 Using a streamlined interface to organize elements and resources, **strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  **Analysts** can construct reports across structures for comparative and historical analysis.  **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  Buy-side **planners** can leverage Atlas to collect assets from vendors, suppliers and distributors.  **UX designers** can leverage the platform to transform the user experience for existing content management or records user interfaces while using its flexible backend to integrate and enrich data from multiple sources.  **Consultants** can leverage Atlas to create flexible, semi-structured data sets for comparative analysis.
 
 
 ## Proof of concept
-The PoC is built on, but not dependent on [Markmap](https://github.com/markmap/markmap) (MIT License), which is a typescript mindmap renderer leveraging YAML-like markup for structure, resulting in very simple human-readable backmatter.  Tolerant of raw markdown, with intelligent parsing of headers and bullets while ignoring tables and base text, along with support for CSS, and allows for initial fold status at the node level.  Markmap does not render unstructured datasets or hierarchies deeper than six.
+The PoC is built on, but not dependent on, [Markmap](https://github.com/markmap/markmap) (MIT License), a typescript mindmap renderer leveraging YAML-like markup for structure, resulting in simple. human-readable backmatter.  It is tolerant of raw markdown, with intelligent parsing of headers and bullets while ignoring tables and base text, along with support for CSS, and allows for initial fold status at the node level, so it's an ideal candidate for initial exploration of the concept.  Markmap does not render unstructured datasets or hierarchies deeper than six.
 
-The backend is logically separated from the renderer, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address canvas-style, tree-style, workflow, state diagram, ganntt, C4, and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects, even if the views leverage different renderers.
+The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address canvas-style, tree-style, workflow, state diagram, ganntt, C4, and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects, even if the views leverage different renderers.
 
 ### Markmap
 #### Example Frontmatter
@@ -26,7 +26,7 @@ The backend is logically separated from the renderer, so markmap can and will co
 ![backmatter](image-2.png)
 
 ### Output
-All simulations have excel-generated guids, but are not RFC9562 compliant.
+All simulations have excel-generated guids, which are reliable for test purposes but not RFC9562 compliant.
 
 - Bicycle Project Test: Semi-functional demo for project quoting.  Has sample backend data and simulated iconography
   - [WBS](https://cloudmappr.github.io/atlas/bicycleDemo_WBS)
@@ -41,7 +41,19 @@ All simulations have excel-generated guids, but are not RFC9562 compliant.
   - [Mindmap](https://cloudmappr.github.io/atlas/ancientHistory_Curr)
 - Learning Path: 
   - [Mindmap](https://cloudmappr.github.io/atlas/learningPath)
-  
+
+#### Data Sets
+Mock data for these and a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
+
+- **uatDataSet**
+  - User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record, populating the results into an appropriate persistent data store to generate backmatter and allow the user to enrich the data.
+
+- **wbs2markmap**
+  - Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
+
+- **markmap2wbs**
+  - Converts hash-annotated markmap into a numerically accurate structure with guids.
+
 ### In Context
 #### Structure Display, Attributes, Summary
 ![nav](image-4.png)
@@ -55,14 +67,3 @@ All simulations have excel-generated guids, but are not RFC9562 compliant.
 #### Learning Path use case
 ![alt text](image-7.png)
 
-## Data Sets
-Mock data for a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
-
-- **uatDataSet**
-  - User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record, populating the results into an appropriate persistent data store
-
-- **wbs2markmap**
-  - Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
-
-- **markmap2wbs**
-  - Converts hash-annotated markmap into a numerically accurate structure with guids.
