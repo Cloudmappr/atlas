@@ -15,11 +15,13 @@ Legal Use and Restrictions
 This document is intended solely for personal use and may not be shared, reproduced, or modified without prior written consent. Violators may be subject to legal action.
 
 ## Overview
-Atlas is a conceptual structure visualization and annotation platform featuring a modular interactive renderer that allows the user to choose and create multuple structured or unstructured views of their data.  The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
+Atlas is a conceptual structure visualization and annotation platform featuring a modular interactive renderer that allows the user to create or calculate multiple structured or unstructured views of their data.  These views can be shared with others, and the same data may be represented in different views.
+
+The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
 <iframe
   src="https://cloudmappr.github.io/atlas/atlasintro.html"
-  style="width:100%; height:300px;"
+  style="width:50%; height:300px;"
 ></iframe>
 
 ### Use cases
