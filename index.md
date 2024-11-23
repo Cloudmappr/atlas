@@ -55,7 +55,7 @@ All simulations have excel-generated guids, which are reliable for test purposes
 #### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
 
 <iframe
-  src="./AtlasRecordTemplate"
+  src="./AtlasRecordTemplate.html"
   style="width:100%; height:400px;"
 ></iframe>
 
