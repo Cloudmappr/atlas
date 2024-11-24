@@ -15,7 +15,7 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
 <iframe
-  src="./md/atlasintro.html"
+  src="./atlasintro.html"
   style="width:100%; height:400px;"
 ></iframe>
 
@@ -44,77 +44,57 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
 ![backmatter](./img/image-2.png)
 
 ### Simulations
-All simulations have excel-generated guids, which are reliable for test purposes but not RFC9562 compliant.
-
-
-<iframe
-  src="./md/bicycleDemo_WBS.html"
-  style="width:100%; height:400px;"
-></iframe>
+All simulations have randomized excel-generated guids, which are more or less reliable for test purposes but clearly not RFC9562 compliant.
 
 #### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
 
+<iframe
+  src="./bicycleDemo_WBS.html"
+  style="width:100%; height:400px;"
+></iframe>
+
+
+#### **Example Atlas Record**: Minimal system attributes, nearly completely flexible schema
 <iframe
   src="./AtlasRecordTemplate.html"
   style="width:100%; height:400px;"
 ></iframe>
 
-#### **Example Atlas Record**: Minimal system attributes, nearly completely flexible schema
-
-<iframe
-  src="./md/spacedemo.html"
-  style="width:100%; height:400px;"
-></iframe>
 
 
 #### **Space System**:  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
 
 <iframe
-  src="./md/webDesign_WBS"
+  src="./spacedemo.html"
   style="width:100%; height:400px;"
 ></iframe>
 
-#### **Web Design**:  Typical web design work breakdown structure
+#### Other structures
 
-<iframe
-  src="./md/ancientHistory_Curr"
-  style="width:100%; height:400px;"
-></iframe>
+- [**Product breakdown**](./computerpbs.html): PBS for a typical laptop computer 
 
-#### **Curriculum**:  Syllabus for a freshman-level ancient history course
+- [**Human Body**](./humanbody.html):  Taxonomy for human anatomy
+  
+- [**Web Design**](./webDesign_WBS.html):  Typical web design work breakdown structure
 
-<iframe
-  src="./md/humanlanguages"
-  style="width:100%; height:400px;"
-></iframe>
+- [**Human brain**](./humanbrain.html): Taxonomy of the human brain
 
-#### **Languages**: Human Language Taxonomy
+- [**Curriculum**](./ancientHistory_Curr.html):  Syllabus for a freshman-level ancient history course
 
-<iframe
-  src="./md/learningPath"
-  style="width:100%; height:400px;"
-></iframe>
+- [**Languages**](./humanlanguages.html): Human Language Taxonomy
 
-#### **Learning Path**: Example learning path
+
+- [**Learning Path**](./learningPath.html): Example learning path
 
 
 ### Mock Data Set
-Mock data for these and a variety of structures are provided in the atlas [template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK)
+Mock data for these and a variety of structures are provided in the atlas [wbs generator](./AtlasWBSGenerator.xlsx)
 
-##### Excel copy-pastable
+- **uatDataSet**:  User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant **version 4** UUID for each record, populating the results into an appropriate persistent data store to generate backmatter and allow the user to enrich the data.
 
-<iframe
-  src="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcloudmappr.github.io%2Fatlas%2Ftemplate.xlsx&wdOrigin=BROWSELINK"
-  style="width:100%; height:500px;"
-></iframe>
+- **wbs2markmap**: Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
 
-
-
-####  **uatDataSet**:  User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant UUID for each record, populating the results into an appropriate persistent data store to generate backmatter and allow the user to enrich the data.
-
-####  **wbs2markmap**: Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
-
-####  **markmap2wbs**:   Converts hash-annotated markmap into a numerically accurate structure with guids.
+- **markmap2wbs**:   Converts hash-annotated markmap into a numerically accurate structure with guids.
 
 ### In Context
 
