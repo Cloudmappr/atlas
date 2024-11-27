@@ -79,6 +79,8 @@ All simulations have randomized excel-generated guids, which are more or less re
 
 - [**Human brain**](./humanbrain.html): Taxonomy of the human brain
 
+- [**Sensor Package**](./autonomousVehicle.html):  Notional sensing and control package for autonomous systems
+
 - [**Curriculum**](./ancientHistory_Curr.html):  Syllabus for a freshman-level ancient history course
 
 - [**Languages**](./humanlanguages.html): Human Language Taxonomy
