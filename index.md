@@ -33,7 +33,7 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 
 - Buy-side **planners** can collect and report on assets from vendors, suppliers and distributors.  
 
-- **UX designers** can quickly re-imagine  legacy records and navigation experiences, using the Atlas backend to combine and enrich data from multiple sources.  
+- **UX designers** can quickly re-imagine legacy records and navigation experiences, using the Atlas backend to combine and enrich data from multiple sources.  
 
 - **Consultants** can create flexible, semi-structured data sets and no-code UIs for comparative analysis.</td>
  </tr>
@@ -41,9 +41,11 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 
 
 ## Proof of concept<!-- markmap: foldAll -->
-The PoC is built on, but not dependent on, [Markmap](https://github.com/markmap/markmap) (MIT License), a typescript mindmap renderer leveraging YAML-like markup for structure, resulting in simple. human-readable backmatter.  It is tolerant of raw markdown, with intelligent parsing of headers and bullets while ignoring tables and base text, along with support for CSS, and allows for initial fold status at the node level, so it's an ideal candidate for initial exploration of the concept.  Markmap does not render unstructured datasets.
+The PoC is built on, but not dependent on, [Markmap](https://github.com/markmap/markmap) (MIT License), a typescript mindmap renderer leveraging YAML-like markup for structure, resulting in simple. human-readable backmatter.  It is tolerant of raw markdown, with intelligent parsing of headers and bullets while ignoring tables and base text, along with support for CSS.  Support for initial fold status at the node level allows for primitive zoom-to based on search parameters, and it has built in navigation controls, so it's an ideal candidate for initial exploration of the concept. While Markmap does not render unstructured datasets, the backend data can be rendered by alternative renderers.
 
-The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address canvas-style, tree-style, workflow, state diagram, ganntt, C4, and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects.
+The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address tree, workflow, state , gannt, network, and C4 diagrams, as well as arbitrary (canvas) structures.   
+
+The same data set can be leveraged in multiple structures, leaving the user free to create multiple structures of the same library, allowing visual and quantitative comparison based on the relationships defined by the user in the renderer.
 
 ### Markmap
 <table border="0">
@@ -109,6 +111,8 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 - **wbs2markmap**: Allows users to create their own numerically accurate structures with guids, customize the base url and iconography.
 
 - **markmap2wbs**:   Converts hash-annotated markmap into a numerically accurate structure with guids.
+  
+- **import**: future use for import into the Atlas platform
 
 ### In Context
 <table border="0">
