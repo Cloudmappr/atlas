@@ -71,7 +71,7 @@ All simulations have randomized excel-generated guids, which are more or less re
     </td>
     <td>
 <iframe
-  src="./AtlasRecordTemplate.html"
+  src="./054c5638-61a8-7530-789c-aeb3b73e746d.html"
   style="width:600px; height:400px;"
 ></iframe>
  </tr>
@@ -79,19 +79,9 @@ All simulations have randomized excel-generated guids, which are more or less re
 
 
 
-#### **Example Atlas Record**: Minimal system attributes, nearly completely flexible schema
-
-
-
-
-#### **Space System**:  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
-
-<iframe
-  src="./spacedemo.html"
-  style="width:100%; height:400px;"
-></iframe>
 
 #### Other structures
+-  [**Space System**](./spacedemo.html):  System of System structure for [MIL-STD-811F Appendix J Space System](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36026) with over 400 elements
 
 - [**Product breakdown**](./computerpbs.html): PBS for a typical laptop computer 
 
