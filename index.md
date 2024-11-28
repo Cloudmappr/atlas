@@ -149,3 +149,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 
 </table>
 
+## Phase 1
+
+### Mockup
+![mockup](./phase1mock.svg)
