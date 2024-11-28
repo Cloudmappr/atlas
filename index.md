@@ -59,7 +59,7 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
 ### Simulations
 All simulations have randomized excel-generated guids, which are more or less reliable for test purposes but clearly not RFC9562 compliant.
 
-#### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
+#### **Bicycle Component Test Bid**: Semi-functional project quoting demo with sample backend data and simulated iconography
 
 <table border="0">
  <tr>
@@ -102,7 +102,7 @@ All simulations have randomized excel-generated guids, which are more or less re
 
 
 ### Mock Data Set
-Mock data for these and a variety of structures are provided in the atlas [wbs generator](./AtlasWBSGenerator.xlsx)
+Mock data for these and a variety of structures are provided in the atlas [kickstarter](./AtlasKickstarter.xlsx)
 
 - **uatDataSet**:  User acceptance data - the platform is expected to calculate the numerically accurate structure for each named dataset, along with an [RFC9562](https://datatracker.ietf.org/doc/html/rfc9562)-compliant **version 4** UUID for each record, populating the results into an appropriate persistent data store to generate backmatter and allow the user to enrich the data.
 
@@ -111,32 +111,36 @@ Mock data for these and a variety of structures are provided in the atlas [wbs g
 - **markmap2wbs**:   Converts hash-annotated markmap into a numerically accurate structure with guids.
 
 ### In Context
+<table border="0">
+ <tr>
+    <td> 
+    <a href="./img/image-4.png">Structure Display, Attributes, Summary nav</a>
+    <img src="./img/image-4.png" alt="authoring"> 
+    </td>
+    <td>
+    <a href="./img/image-9.png">Structure Export</a>
+    <img src="./img/image-9.png" alt="export"> 
+   </td>
+ </tr>
+ <tr>
+    <td> 
+    <a href="./img/image-5.png">Structure Inventory</a>
+    <img src="./img/image-5.png" alt="inventory"> 
+    </td>
+    <td>
+    <a href="./img/image-7.png">Learning Path Use Case</a>
+    <img src="./img/image-7.png" alt="learning path"> 
+   </td>
+ </tr>
+ <tr>
+    <td> 
+    <a href="./img/image-10.png">Cross-Structure Reporting</a>
+    <img src="./img/image-10.png" alt="structure attributes">    </td>
+    <td>
+    <a href="./img/image-8.png">Example Structure-level Attributes</a>
+    <img src="./img/image-8.png" alt="structure attributes"> 
+   </td>
+ </tr>
 
-#### [Structure Display, Attributes, Summary nav](./img/image-4.png)
+</table>
 
-![nav](./img/image-4.png)
-
-#### [Resource Attributes, Summary](./img/image-6.png)
-
-![nav](./img/image-6.png) 
-
-#### [Structure Inventory](./img/image-5.png)
-
-![nav](./img/image-5.png) 
-
-#### [Learning Path use case](./img/image-7.png) 
-
-![nav](./img/image-7.png)
-
-#### [Structure-level attributes](./img/image-8.png)
-
-![alt text](./img/image-8.png)
-
-#### [Export](./img/image-9.png)
-
-![alt text](./img/image-11.png)
-![alt text](./img/image-12.png)
-
-#### [Cross-structure reporting](./img/image-10.png)
-
-![alt text](./img/image-10.png)
