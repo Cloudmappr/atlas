@@ -137,6 +137,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 - Structure Actions
   - Export 
     - consolidated, hierarchical docx, pdf, md, and html
+    - image/external links retrieved
     - Toggle WBS numbering
   - Backup (zip)
     - manifest
