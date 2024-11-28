@@ -115,7 +115,41 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
   
 - **import**: future use for import into the Atlas platform
 
-### In Context
+## Phase 1
+![mockup](./phase1mock.svg)
+
+### Components
+- markmap (or similar) renderer
+- stackedit (or similar) markdown editor
+- sqlite (or similar) backend
+- Python/Flask (or similar) frontend/business logic
+
+### Functionality
+
+- Structure Map
+  - Zoom to node on search
+  - Child node CRUD
+    - Toggle Child node deletion (re-parent by default)
+  - Document CRUD (Instantiate on click)
+  - Filter map by level
+  - Toggle WBS numbering
+
+- Structure Actions
+  - Export 
+    - consolidated, hierarchical docx, pdf, md, and html
+    - Toggle WBS numbering
+  - Backup (zip)
+    - manifest
+    - csv exports
+    - db dump
+    - estimate size on export
+  - Restore
+    - import db dump
+  - Append Structure (element level)
+    - Import from AtlasKickstarter excel template
+
+
+## Additional Use cases
 <table border="0">
  <tr>
     <td> 
@@ -149,36 +183,3 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 
 </table>
 
-## Phase 1
-### Components
-- markmap (or similar) renderer
-- stackedit (or similar) markdown editor
-- sqlite (or similar) backend
-- Python/Flask (or similar) frontend/business logic
-
-### Functionality
-
-- Structure Map
-  - Zoom to node on search
-  - Child node CRUD
-    - Toggle Child node deletion (re-parent by default)
-  - Document CRUD (Instantiate on click)
-  - Filter map by level
-  - Toggle WBS numbering
-
-- Structure Actions
-  - Export 
-    - consolidated, hierarchical docx, pdf, md, and html
-    - Toggle WBS numbering
-  - Backup (zip)
-    - manifest
-    - csv exports
-    - db dump
-    - estimate size on export
-  - Restore
-    - import db dump
-  - Append Structure (element level)
-    - Import from AtlasKickstarter excel template
-
-### Mockup
-![mockup](./phase1mock.svg)
