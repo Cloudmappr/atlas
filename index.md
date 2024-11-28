@@ -66,13 +66,13 @@ All simulations have randomized excel-generated guids, which are more or less re
     <td> 
 <iframe
   src="./bicycleDemo_WBS.html"
-  style="width:800px; height:400px;"
+  style="width:600px; height:400px;"
 ></iframe>
     </td>
     <td>
 <iframe
   src="./054c5638-61a8-7530-789c-aeb3b73e746d.html"
-  style="width:600px; height:400px;"
+  style="width:650px; height:400px; font-size:8px;"
 ></iframe>
  </tr>
 </table>
