@@ -14,8 +14,36 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column">
+
 ![nav](./img/image-4.png)
 
+  </div>
+  <div class="column">
 
 - **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
 
@@ -32,6 +60,16 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
 - **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
 
 - **Consultants** can leverage Atlas to create flexible, semi-structured data sets and no-code UIs for comparative analysis.
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
 
 
 
