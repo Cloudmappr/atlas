@@ -21,13 +21,13 @@ The front-end is paired with a simple, flexible and scalable multi-user key/valu
     </td>
     <td>
     
-- **Strategy teams** can quickly generate, iterate, assess, and compare business plan and proposal assets.  
+- **Strategy teams** can collaborate to quickly generate, iterate, assess, and compare business plan and proposal assets.  
 
 - **Analysts** can construct reports across structures for comparative and historical analysis.  
 
 - **Generative AI Consumers** can structure GenAI output for human curation, research, and annotation
 
-- **Instructors** can distribute syllabus and other assets, and gather assets from learners, who can leverage it for structured notetaking aligning to a syllabus or learning plan, or independent learning
+- **Instructors** can distribute syllabus and other assets, and gather assets from **learners**, who can leverage it for structured notetaking aligning to a syllabus or learning plan, or independent learning
   
 - **Content Managers** can construct multiple views and hierarchies of content to provide persona-aligned navigation experiences
 
