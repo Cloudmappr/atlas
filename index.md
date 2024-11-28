@@ -14,63 +14,30 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.row {
-  display: flex;
-}
-
-/* Create two equal columns that sits next to each other */
-.column {
-  flex: 50%;
-  padding: 10px;
-}
-</style>
-</head>
-<body>
-
-<h2>Two Equal Columns</h2>
-
-<div class="row">
-  <div class="column">
-
-![nav](./img/image-4.png)
-
-  </div>
-  <div class="column">
-
-- **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
+<table border="0">
+ <tr>
+    <td> 
+    <img src="./img/image-4.png" alt="project planner use case"> 
+    </td>
+    <td>
+    
+- **Strategy teams** can quickly generate, iterate, assess, and compare business plan and proposal assets.  
 
 - **Analysts** can construct reports across structures for comparative and historical analysis.  
 
-- **Generative AI Consumers** can use Atlas to structure GenAI output for human curation, research, and annotation
+- **Generative AI Consumers** can structure GenAI output for human curation, research, and annotation
 
-- **Instructors** can leverage it for syllabus and asset distribution as well as student assignment collection, with a robust backend for snapshotting and timestamping. 
+- **Instructors** can distribute syllabus and other assets, and gather assets from learners. 
 
-- **Students** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
+- **Learners** can leverage it for structured notetaking aligning to a syllabus or learning plan.  
 
-- Buy-side **planners** can leverage Atlas to collect assets from vendors, suppliers and distributors.  
+- Buy-side **planners** can collect and report on assets from vendors, suppliers and distributors.  
 
-- **UX designers** can leverage the platform to overhaul the user experience for legacy records interfaces interfaces, and it the Atlas backend to integrate and enrich data from multiple sources.  
+- **UX designers** can quickly re-imagine  legacy records user experiences, using the Atlas backend to integrate and enrich data from multiple sources.  
 
-- **Consultants** can leverage Atlas to create flexible, semi-structured data sets and no-code UIs for comparative analysis.
-  </div>
-</div>
-
-</body>
-</html>
-
-
-
-
-
-
+- **Consultants** can create flexible, semi-structured data sets and no-code UIs for comparative analysis.</td>
+ </tr>
+</table>
 
 
 ## Proof of concept<!-- markmap: foldAll -->
@@ -79,11 +46,15 @@ The PoC is built on, but not dependent on, [Markmap](https://github.com/markmap/
 The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address canvas-style, tree-style, workflow, state diagram, ganntt, C4, and deep structure use cases.   The same data set can be leveraged in multiple structures, so user could define their own hierarchies or canvases, save and switch between them without impacting the state and content of the objects.
 
 ### Markmap
-#### Example Frontmatter
-![frontmatter](./img/image-3.png)
-
-#### Example backmatter
-![backmatter](./img/image-2.png)
+<table border="0">
+ <tr>
+    <td> 
+    <img src="./img/image-3.png" alt="markmap frontmatter"> 
+    </td>
+    <td>
+    <img src="./img/image-2.png" alt="markmap backmatter"> 
+ </tr>
+</table>
 
 ### Simulations
 All simulations have randomized excel-generated guids, which are more or less reliable for test purposes but clearly not RFC9562 compliant.
