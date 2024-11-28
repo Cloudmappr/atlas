@@ -14,6 +14,8 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
+The same data set can be leveraged in multiple structures, leaving the user free to create multiple structures of the same library, allowing visual and quantitative comparison based on the relationships defined by the user in the renderer.
+
 <table border="0">
  <tr>
     <td> 
@@ -45,7 +47,6 @@ The PoC is built on, but not dependent on, [Markmap](https://github.com/markmap/
 
 The backend is logically separated from the renderer, maintaining UUIDs and annotated, so markmap can and will co-exist and interoperate with alternative renderers such as [drawio](https://github.com/jgraph/drawio) (Apache License) or [mermaid](https://github.com/mermaid-js/mermaid) (MIT License) to address tree, workflow, state , gannt, network, and C4 diagrams, as well as arbitrary (canvas) structures.   
 
-The same data set can be leveraged in multiple structures, leaving the user free to create multiple structures of the same library, allowing visual and quantitative comparison based on the relationships defined by the user in the renderer.
 
 ### Markmap
 <table border="0">
