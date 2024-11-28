@@ -14,10 +14,7 @@ Atlas is a conceptual structure visualization and annotation platform featuring 
 
 The front-end is paired with a simple, flexible and scalable multi-user key/value store for user annotation of the data, along with subsequent reporting.
 
-<iframe
-  src="./atlasintro.html"
-  style="width:100%; height:400px;"
-></iframe>
+![nav](./img/image-4.png)
 
 
 - **Strategy teams** can use the platform to quickly generate, iterate, assess, and compare business plan and proposal assets.  
