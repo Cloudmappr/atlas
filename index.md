@@ -61,17 +61,26 @@ All simulations have randomized excel-generated guids, which are more or less re
 
 #### **Bicycle Project Test**: Semi-functional project quoting demo with sample backend data and simulated iconography
 
+<table border="0">
+ <tr>
+    <td> 
 <iframe
   src="./bicycleDemo_WBS.html"
-  style="width:100%; height:400px;"
+  style="width:800px; height:400px;"
 ></iframe>
+    </td>
+    <td>
+<iframe
+  src="./AtlasRecordTemplate.html"
+  style="width:600px; height:400px;"
+></iframe>
+ </tr>
+</table>
+
 
 
 #### **Example Atlas Record**: Minimal system attributes, nearly completely flexible schema
-<iframe
-  src="./AtlasRecordTemplate.html"
-  style="width:100%; height:400px;"
-></iframe>
+
 
 
 
