@@ -122,7 +122,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 - **import**: future use for import into the Atlas platform
 
 ## Phase 1
-![mockup](./phase1mock.svg)
+![mockup](./phase1mocknew.svg)
 
 ### Components
 - [markmap](https://github.com/markmap/markmap) (or similar) renderer
