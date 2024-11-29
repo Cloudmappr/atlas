@@ -59,27 +59,36 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
  </tr>
 </table>
 
-### Simulations
-All simulations have randomized excel-generated guids, which are more or less reliable for test purposes but clearly not RFC9562 compliant.
+<a><img src="./bikesemistructured.svg"></a>
 
-#### **Bicycle Component Test Bid**: Semi-functional project quoting demo with sample backend data and simulated iconography
+
+### Simulations
+All simulations have excel-generated pseudo-guids, which are more or less reliable for test purposes but clearly not RFC9562 compliant.
+
+#### **Bicycle Component Test Bid**: Semi-functional project quoting demo with sample backend data and simulated iconography.  Left is rendered with markmap.  The right shows a separate mermaid-based renderer with an alternative, semi-structured hierarchy.  Both link to the same document library.
 
 <table border="0">
  <tr>
     <td> 
 <iframe
   src="./bicycleDemo_WBS.html"
-  style="width:800px; height:400px;"
+  style="width:650px; height:400px;"
 ></iframe>
     </td>
     <td>
 <iframe
+  src="./flowmm.html"
+  style="width:650px; height:400px;"
+></iframe>
+ </tr>
+ 
+ <tr>
+ </tr>
+</table>
+<iframe
   src="./054c5638-61a8-7530-789c-aeb3b73e746d.html"
   style="width:650px; height:400px; font-size:8px;"
 ></iframe>
- </tr>
-</table>
-
 
 
 
@@ -119,35 +128,38 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 ![mockup](./phase1mock.svg)
 
 ### Components
-- markmap (or similar) renderer
-- stackedit (or similar) markdown editor
-- sqlite (or similar) backend
-- Python/Flask (or similar) frontend/business logic
+- [markmap](https://github.com/markmap/markmap) (or similar) renderer
+- Pandao [editor md](https://github.com/pandao/editor.md) (preferred) markdown editor
+- [sqlite](https://github.com/sqlite/sqlite) (or similar) backend
+- [Python/Flask](https://github.com/pallets/flask) (or similar) frontend/business logic
 
 ### Functionality
 
 - Structure Map
   - Zoom to node on search
-  - Child node CRUD
-    - Toggle Child node deletion (re-parent by default)
-  - Document CRUD (Instantiate on click)
   - Filter map by level
   - Toggle WBS numbering
+  - Child node CRUD
+    - Create node
+    - Delete node
+    - Drag & drop re-parenting
+    - Toggle Child node deletion (re-parent by default)
+    - Copy/paste GUID
+
+- Document CRUD
+  - Instantiate on click
+  - Rich text editor
+  - Link support
+  - Self-hosted images (P1)
+  - Copy/Paste GUID
 
 - Structure Actions
   - Export 
-    - consolidated, hierarchical docx, pdf, md, and html
-    - image/external links retrieved
-    - Toggle WBS numbering
   - Backup (zip)
-    - manifest
-    - csv exports
-    - db dump
-    - estimate size on export
   - Restore
-    - import db dump
   - Append Structure (element level)
-    - Import from AtlasKickstarter excel template
+    - Import from AtlasKickstarter template
+    - Import from Backup
 
 
 ## Additional Use cases

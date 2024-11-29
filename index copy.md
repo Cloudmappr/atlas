@@ -77,7 +77,7 @@ All simulations have randomized excel-generated guids, which are more or less re
  </tr>
 </table>
 
-
+![semstric](./bikesemistructured.svg)
 
 #### **Example Atlas Record**: Minimal system attributes, nearly completely flexible schema
 
