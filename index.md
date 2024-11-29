@@ -84,11 +84,11 @@ All simulations have excel-generated pseudo-guids, which are more or less reliab
   style="width:650px; height:400px; font-size:8px;"
 ></iframe>
 </td>
+<td>
  <iframe
   src="./054c5638-61a8-7530-789c-aeb3b73e746d.md"
   style="width:650px; height:400px; font-size:8px;"
 ></iframe>
-<td>
 </td>
  <tr>
  </tr>
