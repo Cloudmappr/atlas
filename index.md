@@ -59,9 +59,6 @@ The backend is logically separated from the renderer, maintaining UUIDs and anno
  </tr>
 </table>
 
-<a><img src="./bikesemistructured.svg"></a>
-
-
 ### Simulations
 All simulations have excel-generated pseudo-guids, which are more or less reliable for test purposes but clearly not RFC9562 compliant.
 
