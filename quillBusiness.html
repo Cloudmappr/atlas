@@ -1,0 +1,28 @@
+<link href="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.snow.css" rel="stylesheet" />
+
+<div id="editor">
+  <p>Hello, <strong>World</strong></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.js"></script>
+<script>
+	const quill = new Quill('#editor', {
+modules: {
+toolbar: [
+[{ header: [1, 2, 3, 4, 5, 6,false] }],
+[{ 'font': [] }],
+['bold', 'italic', 'underline'],
+[{ 'script': 'sub'}, { 'script': 'super' }],
+[{'list': 'bullet'},{'list': 'ordered'},{'list': 'check'}],
+[{ 'indent': '-1'}, { 'indent': '+1' }],
+[ 'link','image','video'],
+[ 'formula',],
+[{ 'color': [] }, { 'background': [] }], // dropdown with defaults from theme
+[{ 'align': [] }],
+['clean']
+],
+},
+placeholder: 'Add a note...',
+theme: 'snow',
+});
+</script>

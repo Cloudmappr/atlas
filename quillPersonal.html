@@ -1,0 +1,23 @@
+<h1>Personal</h1>
+<link href="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.snow.css" rel="stylesheet" />
+
+<div id="editor">
+  <p>Hello, <strong>World</strong></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.js"></script>
+<script>
+	const quill = new Quill('#editor', {
+modules: {
+toolbar: [
+[{ header: [1, 2, false] }],
+['bold', 'italic'],
+[{'list': 'bullet'}],
+[{ 'indent': '-1'}, { 'indent': '+1' }],
+[ 'link',],
+],
+},
+placeholder: 'Add a note...',
+theme: 'snow',
+});
+</script>
