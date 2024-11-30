@@ -171,6 +171,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 ## SaaS Editions
 🅿️= Prototype feature
 
+
 |   | Personal | Educator | Analyst | Business |
 | -----: | :-----: | :-----: | :-----: | :-----: |
 | price | free | $ | $$ | $$$|
@@ -180,25 +181,26 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | Visual structure map🅿️ | ✅ | ✅ | ✅ | ✅ | 
 | Passwordless login  | ✅ | ✅ | ✅ | ✅ |
 | Rich Text Annotation🅿️ | ✅ | ✅ | ✅ | ✅ |
-|**Structure Management**   |
 | Import from Excel🅿️  | ✅ | ✅ | ✅ | ✅ |
 | Export to html, md🅿️ | ✅ | ✅ | ✅ | ✅ |
+|**Document Editing**   |
+| Math Typesetting (KaTeX)|  | ✅ | ✅ | ✅ |
+| File/Image Hosting |  |  | ✅ | ✅ |
+| AI Assistant |  |  | ✅ | ✅ |
+| Full Document Formatting |  |  | ✅ | ✅ | 
+|**Structure Management**   |
 | Structure Backup/Restore🅿️ |  | ✅ | ✅ | ✅ |
 | Structure marketplace |  | ✅ | ✅ | ✅ |
 | Custom Documents/Forms |  |  | ✅ | ✅ |
 | Object Tagging |  |  | ✅ | ✅ |
 | Element-level export |  |  | ✅ | ✅ |
-| Export to docx, pdf, pptx🅿️ |  |  | ✅ | ✅ |
+| Export to docx, pdf, pptx |  |  | ✅ | ✅ |
 | Structure-level Attributes |  |  | ✅ | ✅ |
 | Custom Views |  |  | ✅ | ✅ | 
 | Snapshots |  |  | ✅ | ✅ |
 | Cross-structure reporting |  |  | ✅ | ✅ |
 | Structure differencing |  |  | ✅ | ✅ |
-|**Document Editing**   |
-| Math Typesetting (KaTeX)|  | ✅ | ✅ | ✅ |
-| File/Image Hosting |  |  | ✅ | ✅ |
-| AI Assistant |  |  | ✅ | ✅ |
-|**Collaboration at Scale**   |
+|**Collaboration**   |
 | Report Sharing |  |  | ✅ | ✅ |
 | View Sharing |  |  |  | ✅ |
 | @Mentions support |  |  |  | ✅ |
