@@ -177,6 +177,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | Storage & Transfer* | 100 MiB | 1 GiB | 10 GiB | 100 GiB | 
 | Visual structure map | ✅ | ✅ | ✅ | ✅ | 
 | Passwordless login  | ✅ | ✅ | ✅ | ✅ |
+| Rich Text Annotation | ✅ | ✅ | ✅ | ✅ |
 |**Structure Management**   |
 | Import from Excel  | ✅ | ✅ | ✅ | ✅ |
 | Export to html, md | ✅ | ✅ | ✅ | ✅ |
@@ -192,7 +193,6 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | Cross-structure reporting |  |  | ✅ | ✅ |
 | Structure differencing |  |  | ✅ | ✅ |
 |**Document Editing**   |
-| Rich Text Annotation | ✅ | ✅ | ✅ | ✅ |
 | Math Typesetting (KaTeX)|  | ✅ | ✅ | ✅ |
 | File/Image Hosting |  |  | ✅ | ✅ |
 | AI Assistant |  |  | ✅ | ✅ |
@@ -206,6 +206,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | Custom Tooltips |  |  |  | ✅ |
 | Structure linking |  |  |  | ✅ |
 | MIL-STD-811F templates |  |  |  | ✅ |
+|**Platform Management &<br> Interoperability**   |
 | Single Sign-On |  |  |  | ✅ |
 | Webhooks |  |  |  | ✅ |
 | API Access |  |  |  | ✅ |
