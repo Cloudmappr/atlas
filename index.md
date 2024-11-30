@@ -167,44 +167,52 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
     - Import from Backup
 
 
-## Additional Use Cases
+## SaaS Editions
 
-| feature | Personal | Educator | Analyst | Business |
+|   | Personal | Educator | Analyst | Business |
 | -----: | :-----: | :-----: | :-----: | :-----: |
+| price | free | $ | $$ | $$$|
 | Structures | 5 | 50 | unlimited | unlimited |
 | Collaborators |  | 500 | unlimited | unlimited |
+| Storage & Transfer* | 100 MiB | 1 GiB | 10 GiB | 100 GiB | 
 | Visual structure map | ✅ | ✅ | ✅ | ✅ | 
-| Rich Text Annotation | ✅ | ✅ | ✅ | ✅ |
+| Passwordless login  | ✅ | ✅ | ✅ | ✅ |
+|**Structure Management**   |
 | Import from Excel  | ✅ | ✅ | ✅ | ✅ |
 | Export to html, md | ✅ | ✅ | ✅ | ✅ |
-| Passwordless login  | ✅ | ✅ | ✅ | ✅ |
-| Math Typesetting (KaTeX)|  | ✅ | ✅ | ✅ |
 | Structure Backup/Restore |  | ✅ | ✅ | ✅ |
 | Structure marketplace |  | ✅ | ✅ | ✅ |
 | Custom Documents/Forms |  |  | ✅ | ✅ |
-| Structure-level Attributes |  |  | ✅ | ✅ |
 | Object Tagging |  |  | ✅ | ✅ |
-| Custom Views |  |  | ✅ | ✅ | 
 | Element-level export |  |  | ✅ | ✅ |
 | Export to docx, pdf, pptx |  |  | ✅ | ✅ |
-| File/Image Hosting |  |  | ✅ | ✅ |
-| AI Assistant |  |  | ✅ | ✅ |
+| Structure-level Attributes |  |  | ✅ | ✅ |
+| Custom Views |  |  | ✅ | ✅ | 
 | Snapshots |  |  | ✅ | ✅ |
 | Cross-structure reporting |  |  | ✅ | ✅ |
-| Report Sharing |  |  | ✅ | ✅ |
 | Structure differencing |  |  | ✅ | ✅ |
+|**Document Editing**   |
+| Rich Text Annotation | ✅ | ✅ | ✅ | ✅ |
+| Math Typesetting (KaTeX)|  | ✅ | ✅ | ✅ |
+| File/Image Hosting |  |  | ✅ | ✅ |
+| AI Assistant |  |  | ✅ | ✅ |
+|**Collaboration at Scale**   |
+| Report Sharing |  |  | ✅ | ✅ |
+| View Sharing |  |  |  | ✅ |
 | @Mentions support |  |  |  | ✅ |
 | Tasks and Planner |  |  |  | ✅ |
-| View Sharing |  |  |  | ✅ |
+| Dynamic WBS |  |  |  | ✅ |
+| Proposal Builder |  |  |  | ✅ |
 | Custom Tooltips |  |  |  | ✅ |
 | Structure linking |  |  |  | ✅ |
-| Dynamic WBS |  |  |  | ✅ |
 | MIL-STD-811F templates |  |  |  | ✅ |
 | Single Sign-On |  |  |  | ✅ |
 | Webhooks |  |  |  | ✅ |
 | API Access |  |  |  | ✅ |
 
-### Editor Views by Use Case
+*Additional Storage and Transfer $0.10/GiB-Month
+
+### Editor Views by Edition
 <table border="0">
  <tr>
     <td> 
