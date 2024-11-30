@@ -174,7 +174,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 |   | Personal | Educator | Analyst | Business |
 | -----: | :-----: | :-----: | :-----: | :-----: |
 | price | free | $ | $$ | $$$|
-| Structures | 5 | 50 | unlimited | unlimited |
+| Structures🅿️ | 5 | 50 | unlimited | unlimited |
 | Collaborators |  | 500 | unlimited | unlimited |
 | Storage & Transfer* | 100 MiB | 1 GiB | 10 GiB | 100 GiB | 
 | Visual structure map🅿️ | ✅ | ✅ | ✅ | ✅ | 
