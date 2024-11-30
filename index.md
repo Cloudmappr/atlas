@@ -129,12 +129,13 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 - **import**: future use for import into the Atlas platform
 
 ## Phase 1: Prototype
+
 ![mockup](./phase1mocknew.svg)
 
 ### Components
-- [Markmap](https://github.com/markmap/markmap) (or similar) renderer
-- [Summernote](https://github.com/summernote/summernote) or [Pandao](https://github.com/pandao/editor.md) markdown editor
-- [SQLite](https://github.com/sqlite/sqlite) (or similar) backend
+- [Markmap](https://github.com/markmap/markmap)
+- [Quill](https://github.com/slab/quill) 
+- [SQLite](https://github.com/sqlite/sqlite) or [Postgres](https://github.com/postgres/postgres) backend
 - [Python/Flask](https://github.com/pallets/flask) (or similar) frontend/business logic
 
 ### Functionality
@@ -169,17 +170,16 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 ## Additional Use Cases
 
 | feature | Personal | Educator | Analyst | Business |
-| -----: | :-----: | :-----: | :-----: | :-----:
+| -----: | :-----: | :-----: | :-----: | :-----: |
+| Structures | 5 | 50 | unlimited | unlimited |
+| Collaborators |  | 500 | unlimited | unlimited |
 | Visual structure map | ✅ | ✅ | ✅ | ✅ | 
-| Structure Annotation | ✅ | ✅ | ✅ | ✅ |
-| ToC, KaTEX, code blocks, tables | ✅ | ✅ | ✅ | ✅ |
-| Export to html, md | ✅ | ✅ | ✅ | ✅ |
+| Rich Text Annotation | ✅ | ✅ | ✅ | ✅ |
 | Import from Excel  | ✅ | ✅ | ✅ | ✅ |
+| Export to html, md | ✅ | ✅ | ✅ | ✅ |
 | Passwordless login  | ✅ | ✅ | ✅ | ✅ |
-| Simple Rich Text Editor |  | ✅ | ✅ | ✅ |
+| Math Typesetting (KaTeX)|  | ✅ | ✅ | ✅ |
 | Structure Backup/Restore |  | ✅ | ✅ | ✅ |
-| Unlimited structures |  | ✅ | ✅ | ✅ |
-| Unlimited collaborators |  | ✅ | ✅ | ✅ |
 | Structure marketplace |  | ✅ | ✅ | ✅ |
 | Custom Documents/Forms |  |  | ✅ | ✅ |
 | Structure-level Attributes |  |  | ✅ | ✅ |
@@ -194,6 +194,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | Report Sharing |  |  | ✅ | ✅ |
 | Structure differencing |  |  | ✅ | ✅ |
 | @Mentions support |  |  |  | ✅ |
+| Tasks and Planner |  |  |  | ✅ |
 | View Sharing |  |  |  | ✅ |
 | Custom Tooltips |  |  |  | ✅ |
 | Structure linking |  |  |  | ✅ |
@@ -202,6 +203,75 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | Single Sign-On |  |  |  | ✅ |
 | Webhooks |  |  |  | ✅ |
 | API Access |  |  |  | ✅ |
+
+### Editor Views by Use Case
+<table border="0">
+ <tr>
+    <td> 
+<h4>Personal</h4>
+<img src="./image-4.png" width="500"></a>
+    </td>
+    <td>
+const quill = new Quill('#editor', {<br>
+  modules: {<br>
+    toolbar: [<br>
+      [{ header: [1, 2, false] }],<br>
+      ['bold', 'italic'],<br>
+      [{'list': 'bullet'}],<br>
+      [{ 'indent': '-1'}, { 'indent': '+1' }],<br>
+      [ 'link',],<br>
+    ],<br>
+  },<br>
+  placeholder: 'Add a note...',<br>
+  theme: 'snow', <br>
+ </tr>
+    <td> 
+<h4>Educator</h4>
+<img src="./image-3.png" width="500"></a>
+    </td>
+    <td>
+const quill = new Quill('#editor', {<br>
+  modules: {<br>
+    toolbar: [<br>
+      [{ header: [1, 2, 3, 4, 5, 6,false] }],<br>
+      ['bold', 'italic', 'underline'],<br>
+      [{'list': 'bullet'},{'list': 'ordered'},{'list': 'check'}],<br>
+      [{ 'indent': '-1'}, { 'indent': '+1' }],<br>
+      [ 'link',],<br>
+      [ 'formula',],<br>
+    ],<br>
+  },<br>
+  placeholder: 'Add a note...',<br>
+  theme: 'snow', <br>
+});<br>
+ </tr>
+  </tr>
+    <td> 
+<h4>Analyst/Business</h4>
+<img src="./image-5.png" width="500"></a>
+    </td>
+    <td>
+const quill = new Quill('#editor', {<br>
+  modules: {<br>
+    toolbar: [<br>
+      [{ header: [1, 2, 3, 4, 5, 6,false] }],<br>
+      ['bold', 'italic', 'underline'],<br>
+      [{ 'script': 'sub'}, { 'script': 'super' }],<br>
+      [{'list': 'bullet'},{'list': 'ordered'},{'list': 'check'}],<br>
+      [{ 'indent': '-1'}, { 'indent': '+1' }],<br>
+      [ 'link','image','video'],<br>
+      [ 'formula',],<br>
+        [{ 'color': [] }, { 'background': [] }],          // dropdown with defaults from theme<br>
+  [{ 'font': [] }],<br>
+  [{ 'align': [] }],<br>
+      ['clean']<br>
+    ],<br>
+  },<br>
+  placeholder: 'Add a note...',<br>
+  theme: 'snow', <br>
+});<br>
+ </tr>
+</table>
 
 
 ### Notional Future Mocks
