@@ -169,6 +169,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 
 
 ## SaaS Editions
+🅿️= Prototype feature
 
 |   | Personal | Educator | Analyst | Business |
 | -----: | :-----: | :-----: | :-----: | :-----: |
@@ -176,18 +177,18 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | Structures | 5 | 50 | unlimited | unlimited |
 | Collaborators |  | 500 | unlimited | unlimited |
 | Storage & Transfer* | 100 MiB | 1 GiB | 10 GiB | 100 GiB | 
-| Visual structure map | ✅ | ✅ | ✅ | ✅ | 
+| Visual structure map🅿️ | ✅ | ✅ | ✅ | ✅ | 
 | Passwordless login  | ✅ | ✅ | ✅ | ✅ |
-| Rich Text Annotation | ✅ | ✅ | ✅ | ✅ |
+| Rich Text Annotation🅿️ | ✅ | ✅ | ✅ | ✅ |
 |**Structure Management**   |
-| Import from Excel  | ✅ | ✅ | ✅ | ✅ |
-| Export to html, md | ✅ | ✅ | ✅ | ✅ |
-| Structure Backup/Restore |  | ✅ | ✅ | ✅ |
+| Import from Excel🅿️  | ✅ | ✅ | ✅ | ✅ |
+| Export to html, md🅿️ | ✅ | ✅ | ✅ | ✅ |
+| Structure Backup/Restore🅿️ |  | ✅ | ✅ | ✅ |
 | Structure marketplace |  | ✅ | ✅ | ✅ |
 | Custom Documents/Forms |  |  | ✅ | ✅ |
 | Object Tagging |  |  | ✅ | ✅ |
 | Element-level export |  |  | ✅ | ✅ |
-| Export to docx, pdf, pptx |  |  | ✅ | ✅ |
+| Export to docx, pdf, pptx🅿️ |  |  | ✅ | ✅ |
 | Structure-level Attributes |  |  | ✅ | ✅ |
 | Custom Views |  |  | ✅ | ✅ | 
 | Snapshots |  |  | ✅ | ✅ |
@@ -202,7 +203,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
 | View Sharing |  |  |  | ✅ |
 | @Mentions support |  |  |  | ✅ |
 | Tasks and Planner |  |  |  | ✅ |
-| Dynamic WBS |  |  |  | ✅ |
+| Dynamic WBS🅿️ |  |  |  | ✅ |
 | Proposal Builder |  |  |  | ✅ |
 | Custom Tooltips |  |  |  | ✅ |
 | Structure linking |  |  |  | ✅ |
