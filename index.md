@@ -155,6 +155,7 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
   - Instantiate on click
   - Rich text editor
   - Link support
+  - Picture Support
   - Self-hosted images
   - Copy GUID
 
