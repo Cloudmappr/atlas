@@ -166,6 +166,38 @@ Mock data for these and a variety of structures are provided in the atlas [kicks
     - Import from Backup
 
 
+## Editions
+
+| feature | Personal | Educator | Analyst | Business |
+| -----: | :-----: | :-----: | :-----: | :-----:
+| Visual structure map | ✅ | ✅ | ✅ | ✅ | 
+| Structure Annotation | ✅ | ✅ | ✅ | ✅ |
+| ToC, KaTEX, code blocks, tables | ✅ | ✅ | ✅ | ✅ |
+| Structure Backup/Restore | ✅ | ✅ | ✅ | ✅ |
+| Import from Excel  | ✅ | ✅ | ✅ | ✅ |
+| Unlimited structures |  | ✅ | ✅ | ✅ |
+| Unlimited collaborators |  | ✅ | ✅ | ✅ |
+| Structure marketplace |  | ✅ | ✅ | ✅ |
+| Custom Documents/Forms |  |  | ✅ | ✅ |
+| Structure-level Attributes |  |  | ✅ | ✅ |
+| Element-level export |  |  | ✅ | ✅ |
+| Robust Text Editing |  |  | ✅ | ✅ |
+| File/Image Hosting |  |  | ✅ | ✅ |
+| Tags |  |  | ✅ | ✅ |
+| Custom Views |  |  | ✅ | ✅ | 
+| AI Assistant |  |  | ✅ | ✅ |
+| Snapshots |  |  | ✅ | ✅ |
+| Cross-structure reporting |  |  | ✅ | ✅ |
+| Structure differencing |  |  | ✅ | ✅ |
+| Report Sharing |  |  |  | ✅ |
+| Custom Tooltips |  |  |  | ✅ |
+| Structure linking |  |  |  | ✅ |
+| WBS numbering |  |  |  | ✅ |
+| MIL-STD-811F templates |  |  |  | ✅ |
+| Webhooks |  |  |  | ✅ |
+| API Access |  |  |  | ✅ |
+
+
 ## Additional Use cases
 <table border="0">
  <tr>
