@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="atlas" id="owiaOgK-SS4O82S9PgKc">
-    <mxGraphModel dx="4339" dy="-151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="-1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,7 @@
           <mxGeometry x="143.99961299674004" width="161.99956462133252" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EMatkl9coep4t3cid2Ld-63" value="Account" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="EMatkl9coep4t3cid2Ld-60" vertex="1">
-          <mxGeometry x="1187.9968072231052" width="125.99966137214753" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EMatkl9coep4t3cid2Ld-64" value="Log Out" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="EMatkl9coep4t3cid2Ld-60" vertex="1">
-          <mxGeometry x="1313.996468595253" width="125.99966137214753" height="40" as="geometry" />
+          <mxGeometry x="1279.9968072231052" width="125.99966137214753" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EMatkl9coep4t3cid2Ld-65" value="Reports" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=14;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="EMatkl9coep4t3cid2Ld-60" vertex="1">
           <mxGeometry x="306.7817842104462" y="1" width="143.99961299674004" height="40" as="geometry" />
@@ -69,6 +66,9 @@
         </mxCell>
         <mxCell id="EMatkl9coep4t3cid2Ld-77" value="Heavy Lift Space System" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="EMatkl9coep4t3cid2Ld-66" vertex="1">
           <mxGeometry x="1070.605818367067" width="359.99903249185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CA36lw2y4nnsSrvU0HWF-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMzc3LjkgMTA1LjlMNTAwLjcgMjI4LjdjNy4yIDcuMiAxMS4zIDE3LjEgMTEuMyAyNy4zcy00LjEgMjAuMS0xMS4zIDI3LjNMMzc3LjkgNDA2LjFjLTYuNCA2LjQtMTUgOS45LTI0IDkuOWMtMTguNyAwLTMzLjktMTUuMi0zMy45LTMzLjlsMC02Mi4xLTEyOCAwYy0xNy43IDAtMzItMTQuMy0zMi0zMmwwLTY0YzAtMTcuNyAxNC4zLTMyIDMyLTMybDEyOCAwIDAtNjIuMWMwLTE4LjcgMTUuMi0zMy45IDMzLjktMzMuOWM5IDAgMTcuNiAzLjYgMjQgOS45ek0xNjAgOTZMOTYgOTZjLTE3LjcgMC0zMiAxNC4zLTMyIDMybDAgMjU2YzAgMTcuNyAxNC4zIDMyIDMyIDMybDY0IDBjMTcuNyAwIDMyIDE0LjMgMzIgMzJzLTE0LjMgMzItMzIgMzJsLTY0IDBjLTUzIDAtOTYtNDMtOTYtOTZMMCAxMjhDMCA3NSA0MyAzMiA5NiAzMmw2NCAwYzE3LjcgMCAzMiAxNC4zIDMyIDMycy0xNC4zIDMyLTMyIDMyeiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg==;" vertex="1" parent="EMatkl9coep4t3cid2Ld-60">
+          <mxGeometry x="1410" y="12.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="EMatkl9coep4t3cid2Ld-96" value="" style="shape=mxgraph.sysml.x;aspect=fixed;fontColor=#FFFFFF;strokeColor=#FFFFFF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="2382" y="4027" width="8" height="8" as="geometry" />
