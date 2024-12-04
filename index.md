@@ -10,12 +10,12 @@ This document is intended solely for personal use and may not be shared, reprodu
 Atlas is a conceptual structure visualization and annotation platform featuring a modular interactive renderer. 
 * View the finished interactive [proof of concept](https://cloudmappr.github.io/atlas/simulations.html)
 * Read more about Atlas on the [Wiki](https://github.com/Cloudmappr/atlas/wiki/Introducing-Atlas)
-* View the current work under way on the [prototype](https://github.com/Cloudmappr/atlas/wiki/Phase-1:-Prototype).
+* View the current work under way on the [prototype](https://github.com/Cloudmappr/atlas/wiki/Phase-1-%E2%80%90-Prototype).
 
 Read More:
 * [Overview & Use Cases](https://github.com/Cloudmappr/atlas/wiki/Introducing-Atlas) 
 * [SaaS Editions](https://github.com/Cloudmappr/atlas/wiki/SaaS-Editions)
 * [Mock Data](https://github.com/Cloudmappr/atlas/wiki/Mock-Data)
 * [Phase 0: Proof of Concept](https://cloudmappr.github.io/atlas/simulations.html)
-* [Phase 1: Prototype](https://github.com/Cloudmappr/atlas/wiki/Phase-1:-Prototype)
-* [Phase 2: MVP](https://github.com/Cloudmappr/atlas/wiki/Phase-2:-MVP)
+* [Phase 1: Prototype](https://github.com/Cloudmappr/atlas/wiki/Phase-1-%E2%80%90-Prototype)
+* [Phase 2: MVP](https://github.com/Cloudmappr/atlas/wiki/Phase-2-%E2%80%90-MVP)
