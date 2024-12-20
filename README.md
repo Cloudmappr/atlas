@@ -67,9 +67,10 @@ User one to many Structure : "contributes to"
 Structure one to many Backup : "resides in"
 Structure one to many Renderer: "displayed in"
 Structure one to many Element : "contains"
-Structure one to many Webhook : "creates"
-Element one to many StructureMap : "present in"
+Structure one to many Webhook : "sends"
 Structure one to many StructureMap : "represented by"
+Element one to many StructureMap : "present in"
+
 
 Element one to one or zero Record : "may have"
 Element one to many ElementLink : "source links"
